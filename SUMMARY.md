@@ -1,6 +1,6 @@
 # Table of contents
 
-- [Automatic Translate Addon for TranslatePress](automatic-translate-addon-for-translatepress/readme.md)
+- [Automatic Translate Addon for TranslatePress](automatic-translate-addon-for-translatepress/readme.txt)
 - [Automatic Translations for Polylang](automatic-translations-for-polylang/readme.md)
 - [Automatic Translator Addon for Loco Translate](automatic-translator-addon-for-loco-translate/readme.md)
 - [Conditional Fields for Elementor Form](conditional-fields-for-elementor-form/readme.md)
