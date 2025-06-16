@@ -21,7 +21,7 @@ Display cryptocurrency price ticker widget, coins live price list, table, labels
 
 With this plugin, you can display **coin marketcap**, real-time prices and 24-hour changes for bitcoin, ethereum, and other popular cryptocurrencies anywhere on your crypto blog or website.
 
-**📺** [**Screenshots**](./#screenshots) **| 💻** [**View Demos**](https://cryptocurrencyplugins.com/demo/cryptocurrency-widgets-pro/?utm_source=ccw_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=top_view_demo)
+**📺** [**Screenshots**](cryptocurrency-price-ticker-widget.md#screenshots) **| 💻** [**View Demos**](https://cryptocurrencyplugins.com/demo/cryptocurrency-widgets-pro/?utm_source=ccw_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=top_view_demo)
 
 https://youtu.be/rqemHFw9KW8
 

@@ -99,7 +99,7 @@ You can show your stories, events, appointments, concerts, future & history happ
 * **Timeline Block For Gutenberg \[Free]**-[View Demo](https://cooltimeline.com/demo/gutenberg-timeline-block/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=tbg_demos)
 * **Timeline Block Pro For Gutenberg \[Pro]**-[View Demo](https://cooltimeline.com/demo/timeline-block-pro/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=tbg_demos)
 * **Events Widgets For Elementor And The Events Calendar \[Free]**-[View Demo](https://eventscalendaraddons.com/demos/events-widgets-pro/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_widgets_demos)
-* **Conditional Fields for Elementor Form – Display Conditions \[Free]**-[View Demo](https:/coolplugins.net/product/conditional-fields-for-elementor-form)
+* **Conditional Fields for Elementor Form – Display Conditions \[Free]**-[View Demo](../timeline-widget-addon-for-elementor/https:/coolplugins.net/product/conditional-fields-for-elementor-form)
 
 \== Installation ==
 
