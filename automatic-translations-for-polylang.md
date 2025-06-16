@@ -1,0 +1,2 @@
+# Automatic Translations for Polylang
+
