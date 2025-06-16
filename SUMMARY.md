@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 - [Automatic Translate Addon for TranslatePress](automatic-translate-addon-for-translatepress/readme.md)
 - [Automatic Translations for Polylang](automatic-translations-for-polylang/readme.md)
