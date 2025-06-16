@@ -1,2 +1,0 @@
-# Cryptocurrency Widgets for Elementor
-

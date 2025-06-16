@@ -1,2 +1,0 @@
-# Timeline Module for Divi
-
