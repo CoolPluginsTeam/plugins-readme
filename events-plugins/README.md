@@ -1,2 +1,2 @@
-# Event Plugins
+# Events Plugins
 
