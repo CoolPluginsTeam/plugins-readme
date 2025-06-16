@@ -15,9 +15,7 @@
 - [Events Calendar Modules for Divi](events-calendar-modules-for-divi/readme.md)
 - [Events Search Addon for The Events Calendar](events-search-addon-for-the-events-calendar/readme.md)
 - [Events Widgets for Elementor and The Events Calendar](events-widgets-for-elementor-and-the-events-calendar/readme.md)
-
-[Extensions for Elementor Form](extensions-for-elementor-form/readme.md)
-
+- [Extensions for Elementor Form](extensions-for-elementor-form/readme.md)
 - [Flip Boxes](flip-boxes/readme.md)
 - [Floating Contact Buttons](floating-contact-buttons/readme.md)
 - [Form Masks for Elementor](form-masks-for-elementor/readme.md)
