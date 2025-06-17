@@ -37,7 +37,7 @@ If you use ACF Pro, you can also display content from Repeater fields inside you
 * **Exclude Specific Taxonomies or Terms:** Exclude unwanted taxonomy terms like "Uncategorized" or any other custom terms from the filter list.
 * **Custom Post Type & ACF Taxonomy Support:** The plugin fully supports custom post types and taxonomies created with ACF, ensuring that all your unique content types work with the filtering system.
 
-### USE CASES
+### Use Cases
 
 * Dynamic Content with ACF Repeater Fields.&#x20;
 * WooCommerce product filters (Color, Size, Brand).
@@ -45,7 +45,7 @@ If you use ACF Pro, you can also display content from Repeater fields inside you
 * Event listing or directory filtering.
 * Language-based taxonomy filters for multilingual websites.
 
-### TECHNICAL HIGHLIGHTS
+### Technical Highlights
 
 * Supports ACF Pro Repeater Field inside Elementor Pro widgets.
 * Built according to Elementor Standards.
