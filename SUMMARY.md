@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Elementor Form Plugins](README.md)
-  * [Form Masks for Elementor](readme/form-masks-for-elementor.md)
-  * [Mask Form Elementor](readme/mask-form-elementor.md)
-  * [Country Code Field for Elementor Form](readme/country-code-field-for-elementor-form.md)
-  * [Conditional Fields for Elementor Form](readme/conditional-fields-for-elementor-form.md)
-  * [Extensions for Elementor Form](readme/extensions-for-elementor-form.md)
+  * [Form Masks for Elementor](elementor-form-plugins/form-masks-for-elementor.md)
+  * [Mask Form Elementor](elementor-form-plugins/mask-form-elementor.md)
+  * [Country Code Field for Elementor Form](elementor-form-plugins/country-code-field-for-elementor-form.md)
+  * [Conditional Fields for Elementor Form](elementor-form-plugins/conditional-fields-for-elementor-form.md)
+  * [Extensions for Elementor Form](elementor-form-plugins/extensions-for-elementor-form.md)
 * [Translation Plugins](translation-plugins/README.md)
   * [Automatic Translate Addon for TranslatePress](translation-plugins/automatic-translate-addon-for-translatepress.md)
   * [Automatic Translations for Polylang](translation-plugins/automatic-translations-for-polylang.md)
