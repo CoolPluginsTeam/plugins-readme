@@ -1,8 +1,8 @@
 # Events Widgets for Elementor and The Events Calendar
 
-[Events Widget for The Events Calendar](https://eventscalendaraddons.com/plugin/events-widgets-pro/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=keyword) is a powerful addon that lets you display your events directly inside your Elementor pages. It works perfectly with The Events Calendar plugin, giving you more layout options and control over how your events appear.
-
 {% embed url="https://www.youtube.com/watch?v=2m74nSrEo0g&ab_channel=CoolPlugins" %}
+
+[Events Widget for The Events Calendar](https://eventscalendaraddons.com/plugin/events-widgets-pro/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=keyword) is a powerful addon that lets you display your events directly inside your Elementor pages. It works perfectly with The Events Calendar plugin, giving you more layout options and control over how your events appear.
 
 The Events Calendar is great for managing events, but its default layout option is a limitation. This addon solves that problem by giving you multiple layout options. With just a few clicks, you can filter events, choose layouts, and style your event sections to match your site perfectly.
 
