@@ -5,7 +5,7 @@
   * [Mask Form Elementor](elementor-form-plugins/mask-form-elementor.md)
   * [Country Code Field for Elementor Form](elementor-form-plugins/country-code-field-for-elementor-form.md)
   * [Conditional Fields for Elementor Form](elementor-form-plugins/conditional-fields-for-elementor-form.md)
-  * [Page](readme/page.md)
+  * [Loop Grid Extender for Elementor Pro](readme/loop-grid-extender-for-elementor-pro.md)
   * [Extensions for Elementor Form](elementor-form-plugins/extensions-for-elementor-form.md)
 * [Translation Plugins](translation-plugins/README.md)
   * [Automatic Translate Addon for TranslatePress](translation-plugins/automatic-translate-addon-for-translatepress.md)
