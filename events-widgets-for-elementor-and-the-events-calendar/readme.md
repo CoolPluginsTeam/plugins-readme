@@ -17,6 +17,21 @@ The Events Calendar widgets for Elementor. Elementor events widget to show upcom
 
 #### The Events Calendar Elementor Widget
 
+\=== Events Widgets For Elementor And The Events Calendar ===\
+Contributors: narinder-singh, satindersingh, coolplugins\
+Donate link: https://paypal.me/CoolPlugins/50USD/\
+Tags: elementor, events, the events calendar, event calendar, coolplugins\
+Requires at least:5.0\
+Tested up to: 6.8.1\
+Requires PHP: 7.2\
+Stable tag: 1.6.17\
+License: GPLv2 or later\
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+The Events Calendar widgets for Elementor. Elementor events widget to show upcoming events list of The Events Calendar plugin.
+
+\== Description ==
+
 {% embed url="https://www.youtube.com/watch?v=2m74nSrEo0g&ab_channel=CoolPlugins" %}
 
 [Events Widget for The Events Calendar](https://eventscalendaraddons.com/plugin/events-widgets-pro/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=keyword) is a powerful addon that lets you display your events directly inside your Elementor pages. It works perfectly with The Events Calendar plugin, giving you more layout options and control over how your events appear.
@@ -79,7 +94,7 @@ Upgrading to [**Events Widget Pro**](https://eventscalendaraddons.com/plugin/eve
 \== Frequently Asked Questions ==
 
 \= How does it work? =\
-This plugin works as an addon for **Elementor** & **The Events Calendar** plugin. First, you need to make sure that you have installed and activated "The Events Calendar" and "Elementor" plugins. After installing this, drag-and-drop the "Events Widget" to your Elementor page and it will show a cool events list.
+This plugin works as an addon for **Elementor** & **The Events Calendar** plugin. First, you need to make sure that you have installed and activated "The Events Calendar" and "Elementor" plugins. After installing this, drag-and-drop the "Events Widget" to your Elementor page, and it will show a cool events list.
 
 \= Why should I purchase the PRO version? =\
 The Pro version will provide extra design options and pre-made layouts.
