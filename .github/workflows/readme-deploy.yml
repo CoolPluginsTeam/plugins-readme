@@ -1,0 +1,102 @@
+name: Deploy Updated Readmes
+
+on:
+  push:
+    branches:
+      - production
+    paths:
+      - '**/readme.txt'
+
+jobs:
+  deploy-readmes:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 2  # Ensure HEAD^ exists
+
+      - name: Detect Changed Folders
+        id: changes
+        shell: bash
+        run: |
+          set -e
+          echo "Detecting changed folders..."
+          echo "changed_folders=" >> $GITHUB_OUTPUT
+
+          if ! git rev-parse HEAD^ >/dev/null 2>&1; then
+            echo "No parent commit found. Exiting."
+            exit 0
+          fi
+
+          BASE_SHA=$(git rev-parse HEAD^)
+          HEAD_SHA=$(git rev-parse HEAD)
+
+          folders=$(git diff --name-only "$BASE_SHA" "$HEAD_SHA" | grep -E '^.+/readme\.txt$' | awk -F/ '{print $1}' | sort -u)
+          if [ -z "$folders" ]; then
+            echo "No changed folders found."
+            exit 0
+          fi
+
+          changed_folders_val=$(echo "$folders" | paste -sd "," -)
+          echo "changed_folders=$changed_folders_val" >> $GITHUB_OUTPUT
+          echo "Detected changed folders: $changed_folders_val"
+
+      - name: Deploy Updated Readmes
+        if: steps.changes.outputs.changed_folders != ''
+        run: |
+          set -e
+          echo "Starting deployment..."
+
+          IFS=',' read -ra FOLDERS <<< "${{ steps.changes.outputs.changed_folders }}"
+
+          for FOLDER in "${FOLDERS[@]}"; do
+            echo "----------------------------------------"
+            echo "Processing folder: $FOLDER"
+
+            # Check if folder exists
+            if [ ! -f "$FOLDER/readme.txt" ]; then
+              echo "❌ File not found: $FOLDER/readme.txt"
+              continue
+            fi
+
+            # Construct destination repo URL
+            DEST_REPO="https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/aniketcoolplugins007/${FOLDER}.git"
+            TEMP_DIR="temp-${FOLDER}"
+
+            echo "Cloning destination repo: $DEST_REPO"
+            if ! git clone --depth 1 --branch temp_branch "$DEST_REPO" "$TEMP_DIR"; then
+              echo "❌ Failed to clone repo: $DEST_REPO"
+              continue
+            fi
+
+            echo "✅ Cloned into: $TEMP_DIR"
+            echo "Copying $FOLDER/readme.txt → $TEMP_DIR/readme.txt"
+            cp "$FOLDER/readme.txt" "$TEMP_DIR/readme.txt" || {
+              echo "❌ Failed to copy readme.txt"
+              continue
+            }
+
+            cd "$TEMP_DIR"
+            git config user.name "github-actions"
+            git config user.email "actions@github.com"
+
+            git add readme.txt
+            if git diff --cached --quiet; then
+              echo "ℹ️ No changes to commit."
+            else
+              git commit -m "Update readme.txt from plugins-readme repo"
+              echo "✅ Committed changes."
+              if git push origin temp_branch; then
+                echo "✅ Pushed to temp_branch."
+              else
+                echo "❌ Push failed for $FOLDER"
+              fi
+            fi
+
+            cd ..
+            rm -rf "$TEMP_DIR"
+            echo "✅ Cleaned up $TEMP_DIR"
+            echo "----------------------------------------"
+          done
