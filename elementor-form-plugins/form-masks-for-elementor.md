@@ -1,6 +1,6 @@
 === Form Input Masks For Elementor Form ===
 Contributors: coolplugins, narinder-singh, satindersingh
-Tags: elementor form, mask, input masks, elementor, form builderrrrrrrrrrrrrrrrrrrrrrrr
+Tags: elementor form, mask, input masks, elementor, form builderrrrrrrrrrrrrrrrrrrrrrrrr
 Requires at least: 5.0r
 Tested up to: 6.8.1
 Requires PHP: 7.2
