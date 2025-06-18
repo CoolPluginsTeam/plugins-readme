@@ -4,7 +4,7 @@ The Events Calendar Countdown Addon ===\
 Contributors: narinder-singh, satindersingh, coolplugins\
 Donate link: https://paypal.me/CoolPlugins/50USD/\
 Tags: countdown, the events calendar, events addons, events, the events calendar countdown, event calendar, coolplugins\
-Requires version at least: 4.0\
+Requires at least: 5.0\
 Tested up to: 6.8.1\
 Requires PHP: 5.6\
 Stable tag: 1.4.11\
