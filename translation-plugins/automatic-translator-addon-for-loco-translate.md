@@ -1,7 +1,7 @@
 === Automatic Translate Addon For Loco Translate ===
 Contributors: narinder-singh, satindersingh, coolplugins
 Donate link: https://paypal.me/CoolPlugins/10USD/
-Tags:ai translation, google translate, translate, chatgpt, multilingual
+Tags:ai translation, google translate, translate, chatgpt, multilingualsdfdsf
 Requires at least:5.0
 Tested up to: 6.8.1
 Requires PHP: 7.2
