@@ -77,8 +77,9 @@ Upgrading to [**Events Widget Pro**](https://eventscalendaraddons.com/plugin/eve
 
 * [**Events Single Page Builder Pro**](https://eventscalendaraddons.com/plugin/event-single-page-builder-pro/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=epta_more_addons) - Design stunning single event pages with Elementor using pre-built templates and 20+ customizable widgets.
 * [**Events Shortcodes Pro**](https://eventscalendaraddons.com/plugin/events-shortcodes-pro/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=ect_more_addons) - Events Shortcodes Pro For The Events Calendar adds the missing shortcode functionality to The Events Calendar plugin. With this plugin, you can easily display your events on any page or post in a list, grid, carousel, slider, masonry, accordion, or even a timeline format.
+* [**Events Calendar Modules for Divi ⇗**](https://wordpress.org/plugins/events-calendar-modules-for-divi/) - Display The Events Calendar Events directly inside Divi with Customizable List or Grid Layouts.
 
-> **DISCLAIMER:** Events Widgets For Elementor & The Events Calendar plugin is developed by **Cool Plugins** team and is not affiliated with or developed by the official team of **The Events Calendar** plugin, which is a part of **StellarWP**, the software arm of **Liquid Web**. Some of the links in this content may be affiliate links, which means we may earn a commission at no extra cost to you if you purchase through these links.
+> **DISCLAIMER:** Events Widgets For Elementor & The Events Calendar plugin is developed by the **Cool Plugins** team and is not affiliated with or developed by the official team of **The Events Calendar** plugin, which is a part of **StellarWP**, the software arm of **Liquid Web**. Some of the links in this content may be affiliate links, which means we may earn a commission at no extra cost to you if you purchase through these links.
 
 \== Installation ==
 
