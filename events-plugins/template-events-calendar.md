@@ -61,7 +61,7 @@ In addition to the **Events Shortcodes** plugin, there are more addons available
 * [**Events Widgets Pro**](https://eventscalendaraddons.com/plugin/events-widgets-pro/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=ectbe_plugin)- Show events list, grid, carousel, and more in Elementor pages using **The Events Calendar Elementor Widgets.**
 * [**Events Calendar Modules for Divi**](https://wordpress.org/plugins/events-calendar-modules-for-divi/) - Display The Events Calendar Events directly inside Divi with Customizable List or Grid Layouts.
 
-> **DISCLAIMER:** Events Shortcode For Elementor & The Events Calendar plugin is developed by the **Cool Plugins** team and is not affiliated with or developed by the official team of **The Events Calendar** plugin, which is a part of **StellarWP**, the software arm of **Liquid Web**. Some of the links in this content may be affiliate links, which means we may earn a commission at no extra cost to you if you purchase through these links.
+> **DISCLAIMER:** Events Shortcode For The Events Calendar plugin is developed by the **Cool Plugins** team and is not affiliated with or developed by the official team of **The Events Calendar** plugin, which is a part of **StellarWP**, the software arm of **Liquid Web**. Some of the links in this content may be affiliate links, which means we may earn a commission at no extra cost to you if you purchase through these links.
 
 \== Installation ==
 
