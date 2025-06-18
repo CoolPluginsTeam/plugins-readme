@@ -117,15 +117,15 @@ Yes, with the Pro version, you can add multiple taxonomies (e.g., categories + t
 
 \= 1.0.2 =
 
-\* Updated requires plugins in header.
+* Updated requires plugins in header.
 
 \= 1.0.1 =
 
-\* Added required plugins in header.
+* Added required plugins in header.
 
 \= 1.0.0 =
 
-\* Initial release – includes dropdown filters, post/product counts, taxonomy exclusion, and basic CPT/ACF support.\
+* Initial release – includes dropdown filters, post/product counts, taxonomy exclusion, and basic CPT/ACF support.\
 
 
 \== Upgrade Notice ==
