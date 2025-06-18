@@ -1,61 +1,108 @@
-- name: Convert and Deploy
-  if: steps.changes.outputs.changed_files != ''
-  run: |
-    set -e
-    echo "Starting conversion and deployment..."
+name: Convert and Deploy Updated Readmes
 
-    IFS=',' read -ra FILES <<< "${{ steps.changes.outputs.changed_files }}"
+on:
+  push:
+    branches:
+      - production
+    paths:
+      - '**/*.md'
 
-    for FILE in "${FILES[@]}"; do
-      echo "----------------------------------------"
-      echo "Processing file: $FILE"
+jobs:
+  deploy-readmes:
+    runs-on: ubuntu-latest
 
-      if [ ! -f "$FILE" ]; then
-        echo "❌ Markdown file not found: $FILE"
-        continue
-      fi
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
 
-      TXT_FILE="${FILE%.md}.txt"
-      echo "Converting $FILE to $TXT_FILE"
-      cp "$FILE" "$TXT_FILE"
+      - name: Detect Changed Markdown Files
+        id: detect_changes
+        shell: bash
+        run: |
+          set -e
+          echo "Detecting changed .md files..."
 
-      FOLDER=$(dirname "$FILE")
-      REPO_NAME=$(basename "$FOLDER")
+          if ! git rev-parse HEAD^ >/dev/null 2>&1; then
+            echo "No parent commit found. Skipping detection."
+            echo "changed_files=" >> $GITHUB_ENV
+            exit 0
+          fi
 
-      DEST_REPO="https://x-access-token:${{ secrets.COOL_README_TOKEN }}@github.com/CoolPluginsTeam/${REPO_NAME}.git"
-      TEMP_DIR="temp-${REPO_NAME}"
+          BASE_SHA=$(git rev-parse HEAD^)
+          HEAD_SHA=$(git rev-parse HEAD)
 
-      echo "Cloning destination repo: $DEST_REPO"
-      if ! git clone --depth 1 --branch temp_branch "$DEST_REPO" "$TEMP_DIR"; then
-        echo "❌ Failed to clone repo: $DEST_REPO"
-        continue
-      fi
+          md_files=$(git diff --name-only "$BASE_SHA" "$HEAD_SHA" | grep -E '\.md$' || true)
+          if [ -z "$md_files" ]; then
+            echo "No changed .md files found."
+            echo "changed_files=" >> $GITHUB_ENV
+            exit 0
+          fi
 
-      echo "✅ Cloned into: $TEMP_DIR"
-      cp "$TXT_FILE" "$TEMP_DIR/$(basename "$TXT_FILE")" || {
-        echo "❌ Failed to copy $(basename "$TXT_FILE")"
-        continue
-      }
+          changed_files_val=$(echo "$md_files" | paste -sd "," -)
+          echo "changed_files=$changed_files_val" >> $GITHUB_ENV
+          echo "Detected changed .md files: $changed_files_val"
 
-      cd "$TEMP_DIR"
-      git config user.name "github-actions"
-      git config user.email "actions@github.com"
+      - name: Convert and Deploy Changed Markdown Files
+        if: env.changed_files != ''
+        env:
+          changed_files: ${{ env.changed_files }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          echo "Starting conversion and deployment..."
 
-      git add "$(basename "$TXT_FILE")"
-      if git diff --cached --quiet; then
-        echo "ℹ️ No changes to commit."
-      else
-        git commit -m "Update $(basename "$TXT_FILE") from .md source"
-        echo "✅ Committed changes."
-        if git push origin temp_branch; then
-          echo "✅ Pushed to temp_branch."
-        else
-          echo "❌ Push failed for $REPO_NAME"
-        fi
-      fi
+          IFS=',' read -ra FILES <<< "$changed_files"
 
-      cd ..
-      rm -rf "$TEMP_DIR"
-      echo "✅ Cleaned up $TEMP_DIR"
-      echo "----------------------------------------"
-    done
+          for FILE in "${FILES[@]}"; do
+            echo "----------------------------------------"
+            echo "Processing file: $FILE"
+
+            if [ ! -f "$FILE" ]; then
+              echo "❌ File not found: $FILE"
+              continue
+            fi
+
+            TXT_FILE="${FILE%.md}.txt"
+            cp "$FILE" "$TXT_FILE"
+
+            FOLDER=$(dirname "$FILE")
+            REPO_NAME=$(basename "$FOLDER")
+
+            DEST_REPO="https://x-access-token:${{ secrets.COOL_README_TOKEN }}@github.com/CoolPluginsTeam/${REPO_NAME}.git"
+            TEMP_DIR="temp-${REPO_NAME}"
+
+            echo "Cloning destination repo: $DEST_REPO"
+            if ! git clone --depth 1 --branch temp_branch "$DEST_REPO" "$TEMP_DIR"; then
+              echo "❌ Failed to clone repo: $DEST_REPO"
+              continue
+            fi
+
+            echo "✅ Cloned into: $TEMP_DIR"
+            cp "$TXT_FILE" "$TEMP_DIR/$(basename "$TXT_FILE")" || {
+              echo "❌ Failed to copy $TXT_FILE"
+              continue
+            }
+
+            cd "$TEMP_DIR"
+            git config user.name "github-actions"
+            git config user.email "actions@github.com"
+
+            git add "$(basename "$TXT_FILE")"
+            if git diff --cached --quiet; then
+              echo "ℹ️ No changes to commit."
+            else
+              git commit -m "Update $(basename "$TXT_FILE") from .md source"
+              if git push origin temp_branch; then
+                echo "✅ Pushed to temp_branch."
+              else
+                echo "❌ Push failed for $REPO_NAME"
+              fi
+            fi
+
+            cd ..
+            rm -rf "$TEMP_DIR"
+            echo "✅ Cleaned up $TEMP_DIR"
+            echo "----------------------------------------"
+          done
