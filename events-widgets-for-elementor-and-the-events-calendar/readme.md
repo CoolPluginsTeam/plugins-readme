@@ -58,7 +58,9 @@ The Events Calendar is great for managing events, but its default layout option 
 
 **Free Version Demos**
 
-[Events List](https://eventscalendaraddons.com/the-events-calendar-list-widget-for-elementor/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_list) [Events Minimal List](https://eventscalendaraddons.com/events-list-minimal-styles-for-elementor/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=minimal_list) [Events Calendar](https://eventscalendaraddons.com/elementor-event-calendar-widget-designs/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_calendar)
+[Events List](https://eventscalendaraddons.com/the-events-calendar-list-widget-for-elementor/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_list) \
+[Events Minimal List](https://eventscalendaraddons.com/events-list-minimal-styles-for-elementor/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=minimal_list) \
+[Events Calendar](https://eventscalendaraddons.com/elementor-event-calendar-widget-designs/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_calendar)
 
 ### Upgrade to Pro!
 
@@ -66,7 +68,10 @@ Upgrading to [**Events Widget Pro**](https://eventscalendaraddons.com/plugin/eve
 
 **Pro Version Demos**
 
-[Events Grid](https://eventscalendaraddons.com/the-events-calendar-grid-widget-for-elementor/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_grid) [Events Category](https://eventscalendaraddons.com/elementor-widget-display-events-by-category/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_category) [Events by Organizer](https://eventscalendaraddons.com/display-all-events-by-organizer/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_organizer) [Events by Venue ](https://eventscalendaraddons.com/elementor-widget-list-all-events-by-venue/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_venue)
+[Events Grid](https://eventscalendaraddons.com/the-events-calendar-grid-widget-for-elementor/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_grid) \
+[Events Category](https://eventscalendaraddons.com/elementor-widget-display-events-by-category/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_category) \
+[Events by Organizer](https://eventscalendaraddons.com/display-all-events-by-organizer/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_organizer) \
+[Events by Venue ](https://eventscalendaraddons.com/elementor-widget-list-all-events-by-venue/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_venue)
 
 #### 💪 More Addons For The Events Calendar
 
