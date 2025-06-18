@@ -64,7 +64,7 @@ jobs:
               continue
             fi
 
-            TXT_FILE="${FILE%.md}.txt"
+            TXT_FILE="readme.txt"
             cp "$FILE" "$TXT_FILE"
 
             FOLDER=$(dirname "$FILE")
