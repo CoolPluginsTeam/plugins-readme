@@ -1,4 +1,4 @@
-=== Pay With MetaMask For WooCommerce - Cryptocurrency Payment Gatewazzzz ===
+=== Pay With MetaMask For WooCommerce - Cryptocurrency Payment Gatewaggg ===
 Contributors:narinder-singh,satindersingh,coolplugins
 Donate link:https://paypal.me/CoolPlugins/10USD/
 Tags:crypto, metamask, WooCommerce, cryptocurrency, payment, e-commerce, bitcoin, ethereum, crypto payments,web3
