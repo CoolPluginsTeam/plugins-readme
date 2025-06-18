@@ -68,7 +68,7 @@ jobs:
             cp "$FILE" "$TXT_FILE"
 
             FOLDER=$(dirname "$FILE")
-            REPO_NAME=$(basename "$FOLDER")
+            REPO_NAME=$(basename "${FILE%.md}")
 
             DEST_REPO="https://x-access-token:${{ secrets.COOL_README_TOKEN }}@github.com/CoolPluginsTeam/${REPO_NAME}.git"
             TEMP_DIR="temp-${REPO_NAME}"
