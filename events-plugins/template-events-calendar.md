@@ -30,6 +30,7 @@ Whether you want to display your events in a list, grid, timeline, or minimal la
     `[events-calendar-templates category="all" template="default" style="style-1" date_format="default" start_date="" end_date="" limit="10" order="ASC" hide-venue="no" time="future" socialshare="no"]`
 * **Multiple Layouts:** The events shortcode plugin offers a variety of layouts, such as List, Minimal, or Timeline layouts. You can select one according to your website’s design.
 * **Pre-defined Styles:** You can choose a predefined style for the selected layout according to your preferences.
+* **Multiple Layouts:** The events shortcode plugin offers a variety of layouts, such as List, Minimal, or Timeline layouts. You can select one according to your website’s design.
 * **Date Formats:** Easily customize how dates are displayed by choosing from various formats. Whatever format you prefer, it will automatically be applied to the shortcode.
 * **Event Type:** Choose how you want your events to be displayed. Show upcoming events to highlight future opportunities, past events to showcase your achievements, or both for a complete overview.
 * **Order & Sorting:** You can sort events in ascending or descending order based on their dates to display the oldest or newest events.
