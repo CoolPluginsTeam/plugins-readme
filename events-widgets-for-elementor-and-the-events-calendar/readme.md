@@ -34,7 +34,7 @@ The Events Calendar widgets for Elementor. Elementor events widget to show upcom
 
 {% embed url="https://www.youtube.com/watch?v=2m74nSrEo0g&ab_channel=CoolPlugins" %}
 
-[Events Widget for The Events Calendar](https://eventscalendaraddons.com/plugin/events-widgets-pro/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=keyword) is a powerful addon that lets you display your events directly inside your Elementor pages. It works perfectly with The Events Calendar plugin, giving you more layout options and control over how your events appear.
+[Events Widget for The Events Calendar](https://eventscalendaraddons.com/plugin/events-widgets-pro/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=top_description) is a powerful addon that lets you display your events directly inside your Elementor pages. It works perfectly with The Events Calendar plugin, giving you more layout options and control over how your events appear.
 
 The Events Calendar is great for managing events, but its default layout option is a limitation. This addon solves that problem by giving you multiple layout options. With just a few clicks, you can filter events, choose layouts, and style your event sections to match your site perfectly.
 
@@ -58,20 +58,20 @@ The Events Calendar is great for managing events, but its default layout option 
 
 **Free Version Demos**
 
-[Events List](https://eventscalendaraddons.com/demos/events-widgets-pro/events-list-style-1/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=free_demo) [Events Minimal List](https://eventscalendaraddons.com/demos/events-widgets-pro/events-list-style-3/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=free_demo) [Events Calendar](https://eventscalendaraddons.com/demos/events-widgets-pro/events-calendar-style/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=free_demo)
+[Events List](https://eventscalendaraddons.com/the-events-calendar-list-widget-for-elementor/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_list) [Events Minimal List](https://eventscalendaraddons.com/events-list-minimal-styles-for-elementor/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=minimal_list) [Events Calendar](https://eventscalendaraddons.com/elementor-event-calendar-widget-designs/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_calendar)
 
 ### Upgrade to Pro!
 
-Upgrading to [**Events Widget Pro**](https://eventscalendaraddons.com/plugin/events-widgets-pro/#pricing) unlocks the advanced features, like you can design your own event loop items using different loop widgets, making it easy to show events the way you want. Display your events in a **list, grid,** or **carousel** layout according to your website.&#x20;
+Upgrading to [**Events Widget Pro**](https://eventscalendaraddons.com/plugin/events-widgets-pro/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=events_widget_pro#pricing) unlocks the advanced features, like you can design your own event loop items using different loop widgets, making it easy to show events the way you want. Display your events in a **list, grid,** or **carousel** layout according to your website.&#x20;
 
 **Pro Version Demos**
 
-[Events Grid](https://eventscalendaraddons.com/demos/events-widgets-pro/grid-style-1/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=pro_demo) [Events Category](https://eventscalendaraddons.com/demos/events-widgets-pro/events-by-categories/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=pro_demo) [Events by Organizer](https://eventscalendaraddons.com/demos/events-widgets-pro/events-by-organizer/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=pro_demo) [Events by Venue ](https://eventscalendaraddons.com/demos/events-widgets-pro/events-by-venue/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=pro_demo)
+[Events Grid](https://eventscalendaraddons.com/the-events-calendar-grid-widget-for-elementor/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_grid) [Events Category](https://eventscalendaraddons.com/elementor-widget-display-events-by-category/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_category) [Events by Organizer](https://eventscalendaraddons.com/display-all-events-by-organizer/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_organizer) [Events by Venue ](https://eventscalendaraddons.com/elementor-widget-list-all-events-by-venue/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_venue)
 
 #### 💪 More Addons For The Events Calendar
 
-* [**Events Single Page Builder Pro**](https://eventscalendaraddons.com/plugin/events-single-page-builder-pro/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=get_pro_espbp\&utm_content=more_addons) - Design stunning single event pages with Elementor using pre-built templates and 20+ customizable widgets.
-* [**Events Shortcodes Pro**](https://eventscalendaraddons.com/plugin/events-shortcodes-pro/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=get_pro_ect\&utm_content=more_addons) - Events Shortcodes Pro For The Events Calendar adds the missing shortcode functionality to The Events Calendar plugin. With this plugin, you can easily display your events on any page or post in a list, grid, carousel, slider, masonry, accordion, or even a timeline format.
+* [**Events Single Page Builder Pro**](https://eventscalendaraddons.com/plugin/event-single-page-builder-pro/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=epta_more_addons) - Design stunning single event pages with Elementor using pre-built templates and 20+ customizable widgets.
+* [**Events Shortcodes Pro**](https://eventscalendaraddons.com/plugin/events-shortcodes-pro/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=ect_more_addons) - Events Shortcodes Pro For The Events Calendar adds the missing shortcode functionality to The Events Calendar plugin. With this plugin, you can easily display your events on any page or post in a list, grid, carousel, slider, masonry, accordion, or even a timeline format.
 
 > **DISCLAIMER:** Events Widgets For Elementor & The Events Calendar plugin is developed by **Cool Plugins** team and is not affiliated with or developed by the official team of **The Events Calendar** plugin, which is a part of **StellarWP**, the software arm of **Liquid Web**. Some of the links in this content may be affiliate links, which means we may earn a commission at no extra cost to you if you purchase through these links.
 
