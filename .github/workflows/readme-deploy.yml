@@ -1,11 +1,11 @@
-name: Deploy Updated Readmes
+name: Convert and Deploy Updated Readmes
 
 on:
   push:
     branches:
       - production
     paths:
-      - '**/readme.txt'
+      - '**/*.md'
 
 jobs:
   deploy-readmes:
@@ -15,7 +15,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 2  # Ensure HEAD^ exists
+          fetch-depth: 2
 
       - name: Detect Changed Folders
         id: changes
@@ -33,7 +33,7 @@ jobs:
           BASE_SHA=$(git rev-parse HEAD^)
           HEAD_SHA=$(git rev-parse HEAD)
 
-          folders=$(git diff --name-only "$BASE_SHA" "$HEAD_SHA" | grep -E '^.+/readme\.txt$' | awk -F/ '{print $1}' | sort -u)
+          folders=$(git diff --name-only "$BASE_SHA" "$HEAD_SHA" | grep -E '^.+/.*\.md$' | awk -F/ '{print $1}' | sort -u)
           if [ -z "$folders" ]; then
             echo "No changed folders found."
             exit 0
@@ -43,11 +43,11 @@ jobs:
           echo "changed_folders=$changed_folders_val" >> $GITHUB_OUTPUT
           echo "Detected changed folders: $changed_folders_val"
 
-      - name: Deploy Updated Readmes
+      - name: Convert and Deploy
         if: steps.changes.outputs.changed_folders != ''
         run: |
           set -e
-          echo "Starting deployment..."
+          echo "Starting conversion and deployment..."
 
           IFS=',' read -ra FOLDERS <<< "${{ steps.changes.outputs.changed_folders }}"
 
@@ -55,14 +55,18 @@ jobs:
             echo "----------------------------------------"
             echo "Processing folder: $FOLDER"
 
-            # Check if folder exists
-            if [ ! -f "$FOLDER/readme.txt" ]; then
-              echo "❌ File not found: $FOLDER/readme.txt"
+            MD_FILE="$FOLDER/readme.md"
+            TXT_FILE="$FOLDER/readme.txt"
+
+            if [ ! -f "$MD_FILE" ]; then
+              echo "❌ Markdown file not found: $MD_FILE"
               continue
             fi
 
-            # Construct destination repo URL
-            DEST_REPO="https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/aniketcoolplugins007/${FOLDER}.git"
+            echo "Converting $MD_FILE to $TXT_FILE"
+            cp "$MD_FILE" "$TXT_FILE"
+
+            DEST_REPO="https://x-access-token:${{ secrets.COOL_README_TOKEN }}@github.com/CoolPluginsTeam/${FOLDER}.git"
             TEMP_DIR="temp-${FOLDER}"
 
             echo "Cloning destination repo: $DEST_REPO"
@@ -72,8 +76,7 @@ jobs:
             fi
 
             echo "✅ Cloned into: $TEMP_DIR"
-            echo "Copying $FOLDER/readme.txt → $TEMP_DIR/readme.txt"
-            cp "$FOLDER/readme.txt" "$TEMP_DIR/readme.txt" || {
+            cp "$TXT_FILE" "$TEMP_DIR/readme.txt" || {
               echo "❌ Failed to copy readme.txt"
               continue
             }
@@ -86,7 +89,7 @@ jobs:
             if git diff --cached --quiet; then
               echo "ℹ️ No changes to commit."
             else
-              git commit -m "Update readme.txt from plugins-readme repo"
+              git commit -m "Update readme.txt from .md source"
               echo "✅ Committed changes."
               if git push origin temp_branch; then
                 echo "✅ Pushed to temp_branch."
