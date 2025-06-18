@@ -1,105 +1,61 @@
-name: Convert and Deploy Updated Readmes
+- name: Convert and Deploy
+  if: steps.changes.outputs.changed_files != ''
+  run: |
+    set -e
+    echo "Starting conversion and deployment..."
 
-on:
-  push:
-    branches:
-      - production
-    paths:
-      - '**/*.md'
+    IFS=',' read -ra FILES <<< "${{ steps.changes.outputs.changed_files }}"
 
-jobs:
-  deploy-readmes:
-    runs-on: ubuntu-latest
+    for FILE in "${FILES[@]}"; do
+      echo "----------------------------------------"
+      echo "Processing file: $FILE"
 
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 2
+      if [ ! -f "$FILE" ]; then
+        echo "❌ Markdown file not found: $FILE"
+        continue
+      fi
 
-      - name: Detect Changed Folders
-        id: changes
-        shell: bash
-        run: |
-          set -e
-          echo "Detecting changed folders..."
-          echo "changed_folders=" >> $GITHUB_OUTPUT
+      TXT_FILE="${FILE%.md}.txt"
+      echo "Converting $FILE to $TXT_FILE"
+      cp "$FILE" "$TXT_FILE"
 
-          if ! git rev-parse HEAD^ >/dev/null 2>&1; then
-            echo "No parent commit found. Exiting."
-            exit 0
-          fi
+      FOLDER=$(dirname "$FILE")
+      REPO_NAME=$(basename "$FOLDER")
 
-          BASE_SHA=$(git rev-parse HEAD^)
-          HEAD_SHA=$(git rev-parse HEAD)
+      DEST_REPO="https://x-access-token:${{ secrets.COOL_README_TOKEN }}@github.com/CoolPluginsTeam/${REPO_NAME}.git"
+      TEMP_DIR="temp-${REPO_NAME}"
 
-          folders=$(git diff --name-only "$BASE_SHA" "$HEAD_SHA" | grep -E '^.+/.*\.md$' | awk -F/ '{print $1}' | sort -u)
-          if [ -z "$folders" ]; then
-            echo "No changed folders found."
-            exit 0
-          fi
+      echo "Cloning destination repo: $DEST_REPO"
+      if ! git clone --depth 1 --branch temp_branch "$DEST_REPO" "$TEMP_DIR"; then
+        echo "❌ Failed to clone repo: $DEST_REPO"
+        continue
+      fi
 
-          changed_folders_val=$(echo "$folders" | paste -sd "," -)
-          echo "changed_folders=$changed_folders_val" >> $GITHUB_OUTPUT
-          echo "Detected changed folders: $changed_folders_val"
+      echo "✅ Cloned into: $TEMP_DIR"
+      cp "$TXT_FILE" "$TEMP_DIR/$(basename "$TXT_FILE")" || {
+        echo "❌ Failed to copy $(basename "$TXT_FILE")"
+        continue
+      }
 
-      - name: Convert and Deploy
-        if: steps.changes.outputs.changed_folders != ''
-        run: |
-          set -e
-          echo "Starting conversion and deployment..."
+      cd "$TEMP_DIR"
+      git config user.name "github-actions"
+      git config user.email "actions@github.com"
 
-          IFS=',' read -ra FOLDERS <<< "${{ steps.changes.outputs.changed_folders }}"
+      git add "$(basename "$TXT_FILE")"
+      if git diff --cached --quiet; then
+        echo "ℹ️ No changes to commit."
+      else
+        git commit -m "Update $(basename "$TXT_FILE") from .md source"
+        echo "✅ Committed changes."
+        if git push origin temp_branch; then
+          echo "✅ Pushed to temp_branch."
+        else
+          echo "❌ Push failed for $REPO_NAME"
+        fi
+      fi
 
-          for FOLDER in "${FOLDERS[@]}"; do
-            echo "----------------------------------------"
-            echo "Processing folder: $FOLDER"
-
-            MD_FILE="$FOLDER/readme.md"
-            TXT_FILE="$FOLDER/readme.txt"
-
-            if [ ! -f "$MD_FILE" ]; then
-              echo "❌ Markdown file not found: $MD_FILE"
-              continue
-            fi
-
-            echo "Converting $MD_FILE to $TXT_FILE"
-            cp "$MD_FILE" "$TXT_FILE"
-
-            DEST_REPO="https://x-access-token:${{ secrets.COOL_README_TOKEN }}@github.com/CoolPluginsTeam/${FOLDER}.git"
-            TEMP_DIR="temp-${FOLDER}"
-
-            echo "Cloning destination repo: $DEST_REPO"
-            if ! git clone --depth 1 --branch temp_branch "$DEST_REPO" "$TEMP_DIR"; then
-              echo "❌ Failed to clone repo: $DEST_REPO"
-              continue
-            fi
-
-            echo "✅ Cloned into: $TEMP_DIR"
-            cp "$TXT_FILE" "$TEMP_DIR/readme.txt" || {
-              echo "❌ Failed to copy readme.txt"
-              continue
-            }
-
-            cd "$TEMP_DIR"
-            git config user.name "github-actions"
-            git config user.email "actions@github.com"
-
-            git add readme.txt
-            if git diff --cached --quiet; then
-              echo "ℹ️ No changes to commit."
-            else
-              git commit -m "Update readme.txt from .md source"
-              echo "✅ Committed changes."
-              if git push origin temp_branch; then
-                echo "✅ Pushed to temp_branch."
-              else
-                echo "❌ Push failed for $FOLDER"
-              fi
-            fi
-
-            cd ..
-            rm -rf "$TEMP_DIR"
-            echo "✅ Cleaned up $TEMP_DIR"
-            echo "----------------------------------------"
-          done
+      cd ..
+      rm -rf "$TEMP_DIR"
+      echo "✅ Cleaned up $TEMP_DIR"
+      echo "----------------------------------------"
+    done
