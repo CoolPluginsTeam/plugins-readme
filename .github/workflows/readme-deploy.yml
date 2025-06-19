@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - '**/readme.md'
+      - '**/*.md'
 
 jobs:
   deploy-readmes:
