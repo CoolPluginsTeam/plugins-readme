@@ -14,8 +14,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Auto-translate unlimited strings and characters using AI & Machine Translation tools without any external API Key!
 
-Auto-translate unlimited strings and characters using AI & Machine Translation tools without any external API Key!
-
 \== Description ==
 
 https://www.youtube.com/watch?v=kgu4hWn7bms\&ab\_channel=CoolPlugins
