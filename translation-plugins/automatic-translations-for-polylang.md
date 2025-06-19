@@ -12,8 +12,6 @@ License: GPLv2 or later\
 License URI: http://www.gnu.org/licenses/gpl-2.0.html\
 AI Translation for Polylang simplifies your translation process by automatically translating all pages/posts content from one language to another.
 
-AI Translation for Polylang simplifies your translation process by automatically translating all pages/posts content from one language to another.
-
 \== Description ==\
 https://youtu.be/ecHsOyIL\_J4
 
