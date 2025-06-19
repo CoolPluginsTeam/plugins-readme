@@ -1,4 +1,4 @@
-name: Deploy Updated Readmes
+name: Convert and Deploy Updated Readmes
 
 on:
   push:
@@ -15,55 +15,63 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 2  # Ensure HEAD^ exists
+          fetch-depth: 2
 
-      - name: Detect Changed Folders
-        id: changes
+      - name: Detect Changed Markdown Files
+        id: detect_changes
         shell: bash
         run: |
           set -e
-          echo "Detecting changed folders..."
-          echo "changed_folders=" >> $GITHUB_OUTPUT
+          echo "Detecting changed .md files..."
 
           if ! git rev-parse HEAD^ >/dev/null 2>&1; then
-            echo "No parent commit found. Exiting."
+            echo "No parent commit found. Skipping detection."
+            echo "changed_files=" >> $GITHUB_ENV
             exit 0
           fi
 
           BASE_SHA=$(git rev-parse HEAD^)
           HEAD_SHA=$(git rev-parse HEAD)
 
-          folders=$(git diff --name-only "$BASE_SHA" "$HEAD_SHA" | grep -E '^.+/readme\.txt$' | awk -F/ '{print $1}' | sort -u)
-          if [ -z "$folders" ]; then
-            echo "No changed folders found."
+          md_files=$(git diff --name-only "$BASE_SHA" "$HEAD_SHA" | grep -E '\.md$' || true)
+          if [ -z "$md_files" ]; then
+            echo "No changed .md files found."
+            echo "changed_files=" >> $GITHUB_ENV
             exit 0
           fi
 
-          changed_folders_val=$(echo "$folders" | paste -sd "," -)
-          echo "changed_folders=$changed_folders_val" >> $GITHUB_OUTPUT
-          echo "Detected changed folders: $changed_folders_val"
+          changed_files_val=$(echo "$md_files" | paste -sd "," -)
+          echo "changed_files=$changed_files_val" >> $GITHUB_ENV
+          echo "Detected changed .md files: $changed_files_val"
 
-      - name: Deploy Updated Readmes
-        if: steps.changes.outputs.changed_folders != ''
+      - name: Convert and Deploy Changed Markdown Files
+        if: env.changed_files != ''
+        env:
+          changed_files: ${{ env.changed_files }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -e
-          echo "Starting deployment..."
+          echo "Starting conversion and deployment..."
 
-          IFS=',' read -ra FOLDERS <<< "${{ steps.changes.outputs.changed_folders }}"
+          IFS=',' read -ra FILES <<< "$changed_files"
 
-          for FOLDER in "${FOLDERS[@]}"; do
+          for FILE in "${FILES[@]}"; do
             echo "----------------------------------------"
-            echo "Processing folder: $FOLDER"
+            echo "Processing file: $FILE"
 
-            # Check if folder exists
-            if [ ! -f "$FOLDER/readme.txt" ]; then
-              echo "❌ File not found: $FOLDER/readme.txt"
+            if [ ! -f "$FILE" ]; then
+              echo "❌ File not found: $FILE"
               continue
             fi
 
-            # Construct destination repo URL
-            DEST_REPO="https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/aniketcoolplugins007/${FOLDER}.git"
-            TEMP_DIR="temp-${FOLDER}"
+            TXT_FILE="readme.txt"
+            cp "$FILE" "$TXT_FILE"
+
+            FOLDER=$(dirname "$FILE")
+            REPO_NAME=$(basename "${FILE%.md}")
+
+            DEST_REPO="https://x-access-token:${{ secrets.COOL_README_TOKEN }}@github.com/CoolPluginsTeam/${REPO_NAME}.git"
+            TEMP_DIR="temp-${REPO_NAME}"
 
             echo "Cloning destination repo: $DEST_REPO"
             if ! git clone --depth 1 --branch temp_branch "$DEST_REPO" "$TEMP_DIR"; then
@@ -72,9 +80,8 @@ jobs:
             fi
 
             echo "✅ Cloned into: $TEMP_DIR"
-            echo "Copying $FOLDER/readme.txt → $TEMP_DIR/readme.txt"
-            cp "$FOLDER/readme.txt" "$TEMP_DIR/readme.txt" || {
-              echo "❌ Failed to copy readme.txt"
+            cp "$TXT_FILE" "$TEMP_DIR/$(basename "$TXT_FILE")" || {
+              echo "❌ Failed to copy $TXT_FILE"
               continue
             }
 
@@ -82,16 +89,15 @@ jobs:
             git config user.name "github-actions"
             git config user.email "actions@github.com"
 
-            git add readme.txt
+            git add "$(basename "$TXT_FILE")"
             if git diff --cached --quiet; then
               echo "ℹ️ No changes to commit."
             else
-              git commit -m "Update readme.txt from plugins-readme repo"
-              echo "✅ Committed changes."
+              git commit -m "Update $(basename "$TXT_FILE") from .md source"
               if git push origin temp_branch; then
                 echo "✅ Pushed to temp_branch."
               else
-                echo "❌ Push failed for $FOLDER"
+                echo "❌ Push failed for $REPO_NAME"
               fi
             fi
 
