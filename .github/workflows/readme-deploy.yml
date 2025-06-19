@@ -3,7 +3,7 @@ name: Deploy Updated Readmes
 on:
   push:
     branches:
-      - production
+      - main
     paths:
       - '**/readme.txt'
 
