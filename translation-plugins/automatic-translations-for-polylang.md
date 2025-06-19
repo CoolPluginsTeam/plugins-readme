@@ -14,6 +14,8 @@ AI Translation for Polylang simplifies your translation process by automatically
 
 AI Translation for Polylang simplifies your translation process by automatically translating all pages/posts content from one language to another.
 
+AI Translation for Polylang simplifies your translation process by automatically translating all pages/posts content from one language to another.
+
 \== Description ==\
 https://youtu.be/ecHsOyIL\_J4
 
