@@ -76,7 +76,7 @@ jobs:
             TEMP_DIR="temp-${REPO_NAME}"
 
             echo "Cloning destination repo: $DEST_REPO"
-            if ! git clone --depth 1 --branch temp_branch "$DEST_REPO" "$TEMP_DIR"; then
+            if ! git clone --depth 1 --branch readme_update "$DEST_REPO" "$TEMP_DIR"; then
               echo "❌ Failed to clone repo: $DEST_REPO"
               continue
             fi
@@ -96,8 +96,8 @@ jobs:
               echo "ℹ️ No changes to commit."
             else
               git commit -m "Update $(basename "$TXT_FILE") from .md source"
-              if git push origin temp_branch; then
-                echo "✅ Pushed to temp_branch."
+              if git push origin readme_update; then
+                echo "✅ Pushed to readme_update."
               else
                 echo "❌ Push failed for $REPO_NAME"
               fi
