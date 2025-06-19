@@ -32,13 +32,13 @@ Instead of relying on the default event layout offered by The Events Calendar, t
 * **Primary Color:** Set the main background color, typically used for headings or highlighted sections on the single event layout.
 * **Custom CSS:** Add your own CSS code to customize the appearance of your single event page.&#x20;
 
-🔗 [Check free version demos](https://eventscalendaraddons.com/event/boston-biggest-marathon-run/?utm_source=epta_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=free_demo)
+🔗 [**Check free version demos**](https://eventscalendaraddons.com/event/boston-biggest-marathon-run/?utm_source=epta_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=free_demo)
 
 ### Upgrade to Pro!
 
 Upgrading to the [**Pro version**](https://eventscalendaraddons.com/plugin/event-single-page-builder-pro/?utm_source=epta_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=buy_pro_link) unlocks advanced features such as additional templates, support for single-page templates in Elementor, and designing custom layouts for event categories, venue pages, and organizer pages, giving you complete control over your event content presentation.
 
-[🔗 Check pro version demos](https://eventscalendaraddons.com/demos/event-single-page-builder-pro/?utm_source=epta_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=pro_demo)
+[🔗 **Check pro version demos**](https://eventscalendaraddons.com/demos/event-single-page-builder-pro/?utm_source=epta_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=pro_demo)
 
 #### 💪 More Addons For The Events Calendar
 
@@ -60,8 +60,8 @@ Upgrading to the [**Pro version**](https://eventscalendaraddons.com/plugin/event
 
 This addon only designs single event pages. If you want to show your events in a list, grid, or events carousel layout on any page, then you can try our other addons.
 
-* [📅 Events Shortcodes For The Events Calendar](https://wordpress.org/plugins/template-events-calendar/), Use shortcodes to show events list, grid, carousel on any page.
-* [📅 Events Widgets For Elementor & The Events Calendar](https://wordpress.org/plugins/events-widgets-for-elementor-and-the-events-calendar/), Show events list, grid inside Elementor pages.
+* [📅 **Events Shortcodes For The Events Calendar**](https://wordpress.org/plugins/template-events-calendar/), Use shortcodes to show events list, grid, carousel on any page.
+* [📅 **Events Widgets For Elementor & The Events Calendar**](https://wordpress.org/plugins/events-widgets-for-elementor-and-the-events-calendar/), Show events list, grid inside Elementor pages.
 
 \= Can I select any date format on single event page? =
 
