@@ -17,7 +17,7 @@ Easily add The Events Calendar shortcode or Gutenberg event block on any page an
 
 {% embed url="https://www.youtube.com/watch?v=uL3ToWGncbM" %}
 
-[Events Shortcodes](https://eventscalendaraddons.com/plugin/events-shortcodes-pro/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=keyword) is an addon for the Events Calendar plugin that adds the missing shortcode functionality to The Events Calendar plugin. With this plugin, you can easily display your events on any page or post.
+[Events Shortcodes](https://eventscalendaraddons.com/plugin/events-shortcodes-pro/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=top_description) is an addon for the Events Calendar plugin that adds the missing shortcode functionality to The Events Calendar plugin. With this plugin, you can easily display your events on any page or post.
 
 Whether you want to display your events in a list, grid, timeline, or minimal layout, this plugin makes it simple by adding a shortcode. It’s a time-saving tool that allows you to highlight key events in a visually appealing way without needing advanced coding skills.
 
@@ -39,26 +39,26 @@ Whether you want to display your events in a list, grid, timeline, or minimal la
 
 **Free Version Demos**
 
-[Events List](https://eventscalendaraddons.com/demos/events-shortcodes-pro/events-list/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=free_demo) \
-[Events Timeline](https://eventscalendaraddons.com/demos/events-shortcodes-pro/events-timeline/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=free_demo) \
-[Events Minimal List](https://eventscalendaraddons.com/demos/events-shortcodes-pro/events-minimal-list/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=free_demo)
+[Events List](https://eventscalendaraddons.com/demos/events-shortcodes-pro/events-list/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_list) \
+[Events Timeline](https://eventscalendaraddons.com/demos/events-shortcodes-pro/events-timeline/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_timeline) \
+[Events Minimal List](https://eventscalendaraddons.com/demos/events-shortcodes-pro/events-minimal-list/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=minimal_list)
 
 ### Upgrade to Pro!
 
-Upgrading to [**Events Shortcode Pro**](https://eventscalendaraddons.com/plugin/events-shortcodes-pro/#pricing) unlocks more powerful features like filtering events by category, venue, or organizer, and adding a search & filter bar for better navigation. Additionally, you can also access advanced layouts like Grid, Timeline, Carousel, Masonry, Accordion, Calendar, and more.
+Upgrading to [**Events Shortcode Pro**](https://eventscalendaraddons.com/plugin/events-shortcodes-pro/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=events_shortcode_pro#pricing) unlocks more powerful features like filtering events by category, venue, or organizer, and adding a search & filter bar for better navigation. Additionally, you can also access advanced layouts like Grid, Timeline, Carousel, Masonry, Accordion, Calendar, and more.
 
 **Pro Version Demos**
 
-[Events Grid](https://eventscalendaraddons.com/demos/events-shortcodes-pro/events-grid/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=pro_demo) \
-[Events Accordion](https://eventscalendaraddons.com/demos/events-shortcodes-pro/events-accordion/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=pro_demo)\
-[Events by Organizer](https://eventscalendaraddons.com/demos/events-shortcodes-pro/events-by-organizer/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=pro_demo)
+[Events Grid](https://eventscalendaraddons.com/demos/events-shortcodes-pro/events-grid/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_grid) \
+[Events Accordion](https://eventscalendaraddons.com/demos/events-shortcodes-pro/events-accordion/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_accordion)\
+[Events by Organizer](https://eventscalendaraddons.com/demos/events-shortcodes-pro/events-by-organizer/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_organizer)
 
 #### 💪 More Addons For The Events Calendar
 
 In addition to the **Events Shortcodes** plugin, there are more addons available to extend the features of The Events Calendar plugin:
 
-* [**Events Single Page Builder Pro**](https://eventscalendaraddons.com/plugin/event-single-page-builder-pro/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=epta_more_addons) - Design stunning single event pages with Elementor using pre-built templates and 20+ customizable widgets.
-* [**Events Widgets Pro**](https://eventscalendaraddons.com/plugin/events-widgets-pro/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=ectbe_plugin)- Show events list, grid, carousel, and more in Elementor pages using **The Events Calendar Elementor Widgets.**
+* [**Events Single Page Builder Pro**](https://eventscalendaraddons.com/plugin/event-single-page-builder-pro/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=epta_more_addons) - Design stunning single event pages with Elementor using pre-built templates and 20+ customizable widgets.
+* [**Events Widgets Pro**](https://eventscalendaraddons.com/plugin/events-widgets-pro/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=ectbe_more_addons)- Show events list, grid, carousel, and more in Elementor pages using **The Events Calendar Elementor Widgets.**
 * [**Events Calendar Modules for Divi**](https://wordpress.org/plugins/events-calendar-modules-for-divi/) - Display The Events Calendar Events directly inside Divi with Customizable List or Grid Layouts.
 
 > **DISCLAIMER:** Events Shortcode For The Events Calendar plugin is developed by the **Cool Plugins** team and is not affiliated with or developed by the official team of **The Events Calendar** plugin, which is a part of **StellarWP**, the software arm of **Liquid Web**. Some of the links in this content may be affiliate links, which means we may earn a commission at no extra cost to you if you purchase through these links.
