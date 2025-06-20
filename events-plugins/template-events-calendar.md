@@ -13,7 +13,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Easily add The Events Calendar shortcode or Gutenberg event block on any page and show upcoming events list.
 
-\== Description ==
+== Description ==
 
 {% embed url="https://www.youtube.com/watch?v=uL3ToWGncbM" %}
 
