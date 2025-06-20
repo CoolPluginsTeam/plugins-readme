@@ -19,7 +19,7 @@ The Events Calendar addon to edit and design event single page templates. Single
 
 {% embed url="https://youtu.be/50FBrcqoB-M?si=UHBpoT63OLRa8uJz" %}
 
-[**Event Single Page Builder**](https://eventscalendaraddons.com/plugin/event-single-page-builder-pro/?utm_source=epta_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=heading_link) is a powerful addon for The Events Calendar Plugin that allows you to design a single event page.&#x20;
+[**Event Single Page Builder**](https://eventscalendaraddons.com/plugin/event-single-page-builder-pro/?utm_source=epta_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=top_description) is a powerful addon for The Events Calendar Plugin that allows you to design a single event page.&#x20;
 
 Instead of relying on the default event layout offered by The Events Calendar, this addon gives multiple layout options, allowing you to design event pages according to your website.
 
@@ -32,18 +32,18 @@ Instead of relying on the default event layout offered by The Events Calendar, t
 * **Primary Color:** Set the main background color, typically used for headings or highlighted sections on the single event layout.
 * **Custom CSS:** Add your own CSS code to customize the appearance of your single event page.&#x20;
 
-🔗 [**Check free version demos**](https://eventscalendaraddons.com/event/boston-biggest-marathon-run/?utm_source=epta_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=free_demo)
+🔗 [**Check free version demos**](https://eventscalendaraddons.com/event/boston-biggest-marathon-run/?utm_source=epta_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=check_free_demos)
 
 ### Upgrade to Pro!
 
-Upgrading to the [**Pro version**](https://eventscalendaraddons.com/plugin/event-single-page-builder-pro/?utm_source=epta_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=buy_pro_link) unlocks advanced features such as additional templates, support for single-page templates in Elementor, and designing custom layouts for event categories, venue pages, and organizer pages, giving you complete control over your event content presentation.
+Upgrading to the [**Event Single Page Builder Pro**](https://eventscalendaraddons.com/plugin/event-single-page-builder-pro/?utm_source=epta_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=single_page_builder#pricing) unlocks advanced features such as additional templates, support for single-page templates in Elementor, and designing custom layouts for event categories, venue pages, and organizer pages, giving you complete control over your event content presentation.
 
-[🔗 **Check pro version demos**](https://eventscalendaraddons.com/demos/event-single-page-builder-pro/?utm_source=epta_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=pro_demo)
+[🔗 **Check pro version demos**](https://eventscalendaraddons.com/demos/event-single-page-builder-pro/?utm_source=epta_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=check_pro_demos)
 
 #### 💪 More Addons For The Events Calendar
 
 * [**Events Shortcodes Pro**](https://eventscalendaraddons.com/plugin/events-shortcodes-pro/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=ect_more_addons) - Events Shortcodes Pro For The Events Calendar adds the missing shortcode functionality to The Events Calendar plugin. With this plugin, you can easily display your events on any page or post in a list, grid, carousel, slider, masonry, accordion, or even a timeline format.
-* [**Events Widgets Pro**](https://eventscalendaraddons.com/plugin/events-widgets-pro/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=ectbe_plugin)- Show events list, grid, carousel, and more in Elementor pages using **The Events Calendar Elementor Widgets.**
+* [**Events Widgets Pro**](https://eventscalendaraddons.com/plugin/events-widgets-pro/?utm_source=epta_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=ectbe_more_addons)- Show events list, grid, carousel, and more in Elementor pages using **The Events Calendar Elementor Widgets.**
 * [**Events Calendar Modules for Divi**](https://wordpress.org/plugins/events-calendar-modules-for-divi/) - Display The Events Calendar Events directly inside Divi with Customizable List or Grid Layouts.
 
 > **DISCLAIMER:** Event Single Page Builder For The Events Calendar plugin is developed by the **Cool Plugins** team and is not affiliated with or developed by the official team of **The Events Calendar** plugin, which is a part of **StellarWP**, the software arm of **Liquid Web**. Some of the links in this content may be affiliate links, which means we may earn a commission at no extra cost to you if you purchase through these links.
