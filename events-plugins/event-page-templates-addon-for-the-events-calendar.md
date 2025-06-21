@@ -3,7 +3,7 @@
 \=== Event Single Page Builder For The Event Calendar ===\
 Contributors:narinder-singh,satindersingh,coolplugins\
 Donate link:https://paypal.me/CoolPlugins/10USD/\
-Tags:the events calendar, events, Single Event Page,calendar, events calendar\
+Tags:the events calendar, events, Single Event Page, calendar, events calendar\
 Requires at least:5.0\
 Tested up to:6.8.1\
 Requires PHP:7.2\
