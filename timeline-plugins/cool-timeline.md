@@ -73,7 +73,7 @@ Upgrading to the [**Cool Timeline Pro**](https://cooltimeline.com/plugin/cool-ti
 * **Timeline Widget For Elementor \[Free]**- Showcase your company history, product roadmap, and personal journey in vertical & horizontal layout directly inside Elementor. [**View Demo**](https://cooltimeline.com/demo/elementor-timeline/free/?utm_source=ctl_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=twea_free_demo)
 * **Timeline Block For Gutenberg \[Free]**- Create interactive timelines directly within the WordPress Block Editor to display step-by-step tutorials, a company’s history, and a product roadmap. [**View Demo**](https://cooltimeline.com/demo/gutenberg-timeline-block/?utm_source=ctl_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=tbg_free_demo)
 * **Timeline Builder \[Pro]:** Create a small timeline inside the Gutenberg block editor using a vertical or horizontal timeline. [**View Demo**](https://cooltimeline.com/demo/timeline-builder-pro/?utm_source=ctl_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=tbp_view_demo)
-* **Timeline Module Pro For Divi \[Pro]:** [**View Demo**](https://cooltimeline.com/divi/?utm_source=ctl_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=tmdivi_pro_demo)
+* **Timeline Module Pro For Divi \[Pro]:** Showcase your personal story or company history using stunning vertical or horizontal timelines vdirectly inside the Divi Builder. [**View Demo**](https://cooltimeline.com/divi/?utm_source=ctl_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=tmdivi_pro_demo)
 
 \== Installation ==
 
