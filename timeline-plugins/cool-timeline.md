@@ -11,6 +11,8 @@ Requires PHP: 5.6\
 License: GPLv2 or later\
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
+testing
+
 Showcase your story or company history, events, and roadmap in an interactive timeline using the powerful Cool Timeline plugin.
 
 \== Description ==
