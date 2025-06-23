@@ -11,7 +11,7 @@ Stable tag:1.7.8\
 License:GPLv2 or later\
 License URI:http://www.gnu.org/licenses/gpl-2.0.html
 
-The Events Calendar addon to edit and design event single page templates. Single event page template builder.
+Design stunning The Events Calendar single event pages with Elementor using pre-built templates.
 
 \== Description ==
 
