@@ -11,9 +11,9 @@ Stable tag: 2.4.7\
 License: GPLv2 or later\
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Easily add The Events Calendar shortcode or Gutenberg event block on any page and show upcoming events list.
+Showcase your The Events Calendar's events anywhere on your website using a simple shortcode.
 
-== Description ==
+\== Description ==
 
 {% embed url="https://www.youtube.com/watch?v=uL3ToWGncbM" %}
 
@@ -25,8 +25,8 @@ Whether you want to display your events in a list, grid, timeline, or minimal la
 
 ### Key Features
 
-* **Shortcode Friendly:** Easily generate and customize shortcodes with different parameters. Just copy, paste, and display events anywhere on your site.&#x20;
-  * **Shortcode:** \
+* **Shortcode Friendly:** Easily generate and customize shortcodes with different parameters. Just copy, paste, and display events anywhere on your site.
+  * **Shortcode:**\
     `[events-calendar-templates category="all" template="default" style="style-1" date_format="default" start_date="" end_date="" limit="10" order="ASC" hide-venue="no" time="future" socialshare="no"]`
 * **Multiple Layouts:** The events shortcode plugin offers a variety of layouts, such as List, Minimal, or Timeline layouts. You can select one according to your website’s design.
 * **Pre-defined Styles:** You can choose a predefined style for the selected layout according to your preferences.
@@ -34,13 +34,15 @@ Whether you want to display your events in a list, grid, timeline, or minimal la
 * **Event Type:** Choose how you want your events to be displayed. Show upcoming events to highlight future opportunities, past events to showcase your achievements, or both for a complete overview.
 * **Order & Sorting:** You can sort events in ascending or descending order based on their dates to display the oldest or newest events.
 * **Number of Events:** Set a limit for how many events you want to display.
-* **Filter Events:** Use filters to display particular events by category.&#x20;
+* **Filter Events:** Use filters to display particular events by category.
 * **Date-Based Event:** Easily show events between specific dates. This means you can choose to showcase events between any dates, whether a particular week, month, or custom time period.
+* **Compatibility with Elementor:** Events Shortcode easily integrates with _Elementor_, allowing you to display your events effortlessly. You can add and customize events on your pages without any complex coding.
+* **Fully Responsive:** This plugin is fully responsive, ensuring that your events display perfectly on all screen sizes.
 
 **Free Version Demos**
 
-[Events List](https://eventscalendaraddons.com/demos/events-shortcodes-pro/events-list/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_list) \
-[Events Timeline](https://eventscalendaraddons.com/demos/events-shortcodes-pro/events-timeline/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_timeline) \
+[Events List](https://eventscalendaraddons.com/demos/events-shortcodes-pro/events-list/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_list)\
+[Events Timeline](https://eventscalendaraddons.com/demos/events-shortcodes-pro/events-timeline/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_timeline)\
 [Events Minimal List](https://eventscalendaraddons.com/demos/events-shortcodes-pro/events-minimal-list/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=minimal_list)
 
 ### Upgrade to Pro!
@@ -49,11 +51,11 @@ Upgrading to [**Events Shortcode Pro**](https://eventscalendaraddons.com/plugin/
 
 **Pro Version Demos**
 
-[Events Grid](https://eventscalendaraddons.com/demos/events-shortcodes-pro/events-grid/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_grid) \
+[Events Grid](https://eventscalendaraddons.com/demos/events-shortcodes-pro/events-grid/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_grid)\
 [Events Accordion](https://eventscalendaraddons.com/demos/events-shortcodes-pro/events-accordion/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_accordion)\
 [Events by Organizer](https://eventscalendaraddons.com/demos/events-shortcodes-pro/events-by-organizer/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_organizer)
 
-#### 💪 More Addons For The Events Calendar
+#### More Addons For The Events Calendar
 
 In addition to the **Events Shortcodes** plugin, there are more addons available to extend the features of The Events Calendar plugin:
 

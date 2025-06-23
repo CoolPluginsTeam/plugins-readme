@@ -17,6 +17,8 @@ Highlight your company's history, milestones, and future plans with the advanced
 
 #### Elementor Timeline - Vertical & Horizontal Timeline
 
+{% embed url="https://www.youtube.com/watch?v=_WYTT0iBvyo" %}
+
 Share your **brand story** or your **company's history** with an outstanding timeline design using the advanced **Timeline Widget for Elementor**.\
 With this **Elementor Timeline Widget** , you can easily create a stunning timeline in just a few clicks, choosing from three different timeline layouts:-
 
@@ -24,10 +26,6 @@ With this **Elementor Timeline Widget** , you can easily create a stunning timel
 * [**Horizontal Timeline Demo**](https://cooltimeline.com/demo/elementor-timeline/free/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=horizontal_view_demo#twae-slider-container)
 
 [**View Free Demo**](https://cooltimeline.com/demo/elementor-timeline/free/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=top_view_demos) | [**⭐ View Pro Demo**](https://cooltimeline.com/demo/elementor-timeline-widget/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=pro_view_demos) | [**⭐ Buy PRO**](https://coolplugins.net/product/elementor-timeline-widget-pro-addon/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=buy_pro)
-
-https://youtu.be/YGpTusgTQJc
-
-https://www.youtube.com/watch?v=\_WYTT0iBvyo
 
 It is really important to let your audience know about your brand history. Our timeline plugin will help you to highlight your company history or life story. You can show history/future stories, events, appointments, and many other cool things using this timeline widget.
 
