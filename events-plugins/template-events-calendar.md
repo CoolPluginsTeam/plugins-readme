@@ -96,6 +96,10 @@ With this plugin, users can display events as a list, grid, or slider on any pag
 \= Can I customize the appearance of the events displayed? =\
 Yes, you can customize the appearance of the events displayed using the plugin's settings and the shortcode parameters.
 
+\= How can I report security bugs? =
+
+You can report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team help validate, triage and handle any security vulnerabilities [Report a security vulnerability](https://patchstack.com/database/vdp/template-events-calendar).
+
 \== Screenshots ==
 
 1. Events List Template Style 1
