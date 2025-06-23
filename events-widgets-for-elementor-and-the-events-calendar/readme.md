@@ -28,7 +28,7 @@ Stable tag: 1.6.17\
 License: GPLv2 or later\
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The Events Calendar widgets for Elementor. Elementor events widget to show upcoming events list of The Events Calendar plugin.
+Display events in list, grid, or carousel layouts directly inside Elementor Using The Events Widgets.
 
 \== Description ==
 
@@ -73,11 +73,11 @@ Upgrading to [**Events Widget Pro**](https://eventscalendaraddons.com/plugin/eve
 [Events by Organizer](https://eventscalendaraddons.com/display-all-events-by-organizer/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_organizer) \
 [Events by Venue ](https://eventscalendaraddons.com/elementor-widget-list-all-events-by-venue/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_venue)
 
-#### 💪 More Addons For The Events Calendar
+#### More Addons For The Events Calendar
 
 * [**Events Single Page Builder Pro**](https://eventscalendaraddons.com/plugin/event-single-page-builder-pro/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=epta_more_addons) - Design stunning single event pages with Elementor using pre-built templates and 20+ customizable widgets.
 * [**Events Shortcodes Pro**](https://eventscalendaraddons.com/plugin/events-shortcodes-pro/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=ect_more_addons) - Events Shortcodes Pro For The Events Calendar adds the missing shortcode functionality to The Events Calendar plugin. With this plugin, you can easily display your events on any page or post in a list, grid, carousel, slider, masonry, accordion, or even a timeline format.
-* [**Events Calendar Modules for Divi ⇗**](https://wordpress.org/plugins/events-calendar-modules-for-divi/) - Display The Events Calendar Events directly inside Divi with Customizable List or Grid Layouts.
+* [**Events Calendar Modules for Divi**](https://wordpress.org/plugins/events-calendar-modules-for-divi/) - Display The Events Calendar Events directly inside Divi with Customizable List or Grid Layouts.
 
 > **DISCLAIMER:** Events Widgets For Elementor & The Events Calendar plugin is developed by the **Cool Plugins** team and is not affiliated with or developed by the official team of **The Events Calendar** plugin, which is a part of **StellarWP**, the software arm of **Liquid Web**. Some of the links in this content may be affiliate links, which means we may earn a commission at no extra cost to you if you purchase through these links.
 
@@ -110,6 +110,14 @@ Yes, this addon supports event category filter settings, allowing you to display
 
 \= Can I customize the date format for events? =\
 Yes, this addon supports custom event date format settings, allowing you to display the date and time in a format that suits your audience.
+
+\= Can I create a custom loop or design with Events Widgets Pro? =
+
+Yes, you can design custom loop items with Elementor, but for that you need to upgrade to the Events Widgets Pro.
+
+\= How can I report security bugs? =
+
+You can report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team help validate, triage and handle any security vulnerabilities. [Report a security vulnerability.](https://patchstack.com/database/vdp/template-events-calendar)
 
 \== Screenshots ==
 
