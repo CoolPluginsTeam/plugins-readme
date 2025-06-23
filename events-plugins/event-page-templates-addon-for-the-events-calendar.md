@@ -40,7 +40,7 @@ Upgrading to the [**Event Single Page Builder Pro**](https://eventscalendaraddon
 
 [🔗 **Check pro version demos**](https://eventscalendaraddons.com/demos/event-single-page-builder-pro/?utm_source=epta_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=check_pro_demos)
 
-#### 💪 More Addons For The Events Calendar
+#### More Addons For The Events Calendar
 
 * [**Events Shortcodes Pro**](https://eventscalendaraddons.com/plugin/events-shortcodes-pro/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=ect_more_addons) - Events Shortcodes Pro For The Events Calendar adds the missing shortcode functionality to The Events Calendar plugin. With this plugin, you can easily display your events on any page or post in a list, grid, carousel, slider, masonry, accordion, or even a timeline format.
 * [**Events Widgets Pro**](https://eventscalendaraddons.com/plugin/events-widgets-pro/?utm_source=epta_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=ectbe_more_addons)- Show events list, grid, carousel, and more in Elementor pages using **The Events Calendar Elementor Widgets.**
