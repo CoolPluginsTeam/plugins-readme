@@ -11,7 +11,7 @@ Stable tag:1.6.8\
 License:GPLv2 or later\
 License URI:http://www.gnu.org/licenses/gpl-2.0.html
 
-Highlight your company's history, milestones, and future plans with the advanced Elementor Timeline Widget.
+Highlight your company’s history, milestones, and key events directly inside Elementor using stunning **vertical** and **horizontal timelines**.
 
 \== Description ==
 
@@ -19,93 +19,46 @@ Highlight your company's history, milestones, and future plans with the advanced
 
 {% embed url="https://www.youtube.com/watch?v=_WYTT0iBvyo" %}
 
-Share your **brand story** or your **company's history** with an outstanding timeline design using the advanced **Timeline Widget for Elementor**.\
-With this **Elementor Timeline Widget** , you can easily create a stunning timeline in just a few clicks, choosing from three different timeline layouts:-
+[**Timeline Widget for Elementor**](https://cooltimeline.com/plugin/elementor-timeline-widget-pro/) is a powerful plugin that allows you to create stunning [**vertical**](https://cooltimeline.com/demo/elementor-timeline/free/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=vertical_view_demo) and [**horizontal**](https://cooltimeline.com/demo/elementor-timeline/free/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=vertical_view_demo) timelines to showcase your achievements, personal journey, or company history directly inside Elementor.
 
-* [**Vertical Timeline Demo**](https://cooltimeline.com/demo/elementor-timeline/free/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=vertical_view_demo)
-* [**Horizontal Timeline Demo**](https://cooltimeline.com/demo/elementor-timeline/free/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=horizontal_view_demo#twae-slider-container)
+Whether you’re showcasing a company history, project roadmap, personal journey, or blog timeline. With multiple designs and customization options for colors, fonts, and icons, you can easily design your Elementor timelines according to your brand.
 
-[**View Free Demo**](https://cooltimeline.com/demo/elementor-timeline/free/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=top_view_demos) | [**⭐ View Pro Demo**](https://cooltimeline.com/demo/elementor-timeline-widget/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=pro_view_demos) | [**⭐ Buy PRO**](https://coolplugins.net/product/elementor-timeline-widget-pro-addon/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=buy_pro)
+### Key Features
 
-It is really important to let your audience know about your brand history. Our timeline plugin will help you to highlight your company history or life story. You can show history/future stories, events, appointments, and many other cool things using this timeline widget.
+* **Compatibility with Elementor:** Fully integrated with Elementor, simply drag and drop the timeline widget into any page and start customizing your timeline visually.
+* **Story Timeline:** Perfect for showcasing any type of story or chronological content like company history, career paths, product journeys, or blog timelines.
+* **Multiple Layouts:** Choose between vertical timelines or horizontal layouts according to your preferences.
+* **Pre-made Templates:** Use pre-designed timeline layouts to quickly create a timeline. Just choose a template, add your content, and customize it to match your style.
+* **Font Awesome Icons Support:** Assign icons to each timeline step using the built-in Font Awesome library according to the story.
+* **Custom Labels:** Add personalized text labels to each timeline step and display important details like dates, years, event names, or step numbers.
+* **Image & Multimedia Support:** Enhance your timeline’s engagement using interactive images that visually tell your story.
+* **Timeline Customization:** Customize typography, colors, backgrounds, spacing, and borders of your story elements for a more personalized look.
+* **Content Alignment Options:** Align your text and media (left, right, or center) according to your design and layout.
+* **Compatible with all WordPress Themes:** Timeline widget plugin is fully compatible with all WordPress themes.
+* **Fully Responsive:** This plugin is fully responsive, ensuring that your events display perfectly on all screen sizes.
 
-#### 🌟 Here are all areas where you can use this plugin:-
+🔗[**Check Free Version Demos**](https://cooltimeline.com/demo/elementor-timeline/free/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=top_view_demos)
 
-* **Company Achievements:** Highlight your company’s milestones and achievements.
-* **Historical Timelines:** Show historical events or company history.
-* **Step-by-Step Guides:** Visualize processes or tutorials in a timeline format.
-* **Program Timelines:** Display program schedules or phases clearly.
-* **Event Timelines:** Highlight past and upcoming events effectively.
-* **Job Stories/Personal Milestones:** Share job histories or personal achievements.
-* **Work Experience Timelines:** Create timelines of work experience for resumes or portfolios.
-* **Product Roadmaps:** Show product development stages and future plans.
-* **Brand Stories:** Tell your brand’s story in an engaging way.
+### Upgrade to Pro Version
 
-It is an [**Elementor Website Builder**](https://wordpress.org/plugins/elementor/) Addon. In order to use this Elementor addon you must have to install [**Elementor Website Builder**](https://wordpress.org/plugins/elementor/).
+Upgrading to the [**pro version**](https://coolplugins.net/product/elementor-timeline-widget-pro-addon/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=buy_pro) unlocks more advanced features like multiple layout options (vertical, horizontal, compact), preset styles, and advanced design settings. You can also add videos and slideshows instead of simple images to create interactive timeline stories.
 
-#### 🌟 Timeline Widget PRO Features
-
-* **Three Layout Options:** Choose from Vertical, Horizontal, and One-Sided timelines to match your design needs.
-* **Preset Styles:** Set up beautiful timelines in one click with styles like elegant, minimal, and classic.
-* **Post Timeline:** Display your blog posts in an attractive timeline layout.
-* **Advanced Style Settings:** Customize your timeline’s look to match your website’s design.
-* **Animation Effects:** Bring your timelines to life with over 15 animation effects like fade-in, flip-up, and zoom.
-* **Colors & Typography:** Easily adjust text size, fonts, and colors for a perfect look.
-* **Custom Color Stories:** Use different colors for each story in your timeline for a vibrant effect.
-* **Image/Video/Slideshow:** Add images, videos, or slideshows to your timeline.
-* **Ajax Load More:** Load more stories as users scroll down the timeline.
-* **Icons in Timeline:** Use icons, custom text, or images as timeline markers.
-
-[**⭐ Buy PRO**](https://coolplugins.net/product/elementor-timeline-widget-pro-addon/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=buy_pro)
-
-**Horizontal Layout:**\
-The horizontal layout is one of the most popular and visually appealing options for creating timelines. It arranges your stories in a linear fashion from left to right, making it perfect for websites with ample horizontal space. This layout is ideal for showcasing processes, events, or milestones that progress over time.
-
-**Features of Horizontal Layout:**
-
-* **Sequential Display:** Display your stories in a clear left-to-right format, perfect for showing chronological events.
-* **Space Efficiency:** Utilize the horizontal space on your website effectively, making it great for wide-screen displays.
-* **Interactive Design:** Engage your audience with interactive elements and smooth animations that guide them through your timeline.
-* **Customizable Markers:** Use icons, images, or custom text as markers to highlight significant points in your timeline.
-* **Responsive Design:** Ensure your timeline looks great on all devices, including desktops, tablets, and smartphones.
-
-**Why Use Timeline Widget for Elementor?**
-
-* **Easy to Use:** Create and customize timelines quickly and easily.
-* **Highly Customizable:** Adjust every part of your timeline to fit your website’s design.
-* **Engaging Visuals:** Make your timelines interactive and visually appealing.
-* **Versatile:** Use it for business milestones, personal stories, event planning, and more.
-
-**📌 Cool Timeline - #1 Timeline Plugin (200000+ Downloads)**
-
-Cool Timeline is a responsive WordPress timeline plugin based on a WordPress post-type system. It works inside any theme or page builder using these simple steps:-
-
-1. Create stories one by one inside **Timeline Stories** post type (similar to you submit a blog post).
-2. Now open any page or create a new page and add a timeline shortcode on it - \[cool-timeline].
-3. You can showcase your timeline in a horizontal or vertical layout with 20+ different designs and custom colors.
-
-Cool Timeline automatically showcases timeline stories post-type posts in any ASC or DESC order, based on the year and date of stories.
-
-[**⭐ Cool Timeline Pro Demo**](https://cooltimeline.com/demo/cool-timeline-pro/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=ctl_pro_demos) **|** [**⭐ Cool Timeline Free Demo**](https://cooltimeline.com/demo/cool-timeline-free/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=ctl_free_demos)
-
-You can show your stories, events, appointments, concerts, future & history happenings by using **Cool Timeline plugin** on your website.
+🔗[ **Check Pro Version Demos**](https://cooltimeline.com/demo/elementor-timeline-widget/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=pro_view_demos)
 
 #### Check our other plugins demos
 
-* **Cool Timeline \[Free]**- [Cool Timeline Free Demo](https://cooltimeline.com/demo/cool-timeline-free/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=ctl_free_demos)
-* **Cool Timeline Pro \[Pro]**- [Cool Timeline PRO Demo](https://cooltimeline.com/demo/cool-timeline-pro/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=ctl_pro_demos)
-* **Timeline Block For Gutenberg \[Free]**-[View Demo](https://cooltimeline.com/demo/gutenberg-timeline-block/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=tbg_demos)
-* **Timeline Block Pro For Gutenberg \[Pro]**-[View Demo](https://cooltimeline.com/demo/timeline-block-pro/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=tbg_demos)
-* **Events Widgets For Elementor And The Events Calendar \[Free]**-[View Demo](https://eventscalendaraddons.com/demos/events-widgets-pro/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_widgets_demos)
-* **Conditional Fields for Elementor Form – Display Conditions \[Free]**-[View Demo](../timeline-widget-addon-for-elementor/https:/coolplugins.net/product/conditional-fields-for-elementor-form)
+* **Cool Timeline:** Display your company’s history, product roadmaps, personal stories, or key events using the built-in block or via simple shortcode. [**View Demo**](https://cooltimeline.com/demo/cool-timeline-free/?utm_source=ctl_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=view_free_demos)
+* **Timeline Block For Gutenberg:** Create interactive timelines directly within the WordPress Block Editor to display step-by-step tutorials, a company’s history, and a product roadmap. [**View Demo**](https://cooltimeline.com/demo/gutenberg-timeline-block/?utm_source=ctl_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=tbg_free_demo)
+* **Timeline Builder:** Create a small timeline inside the Gutenberg block editor using a vertical or horizontal timeline. [**View Demo**](https://cooltimeline.com/demo/timeline-builder-pro/?utm_source=ctl_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=tbp_view_demo)
+* **Timeline Module Pro For Divi:** Showcase your personal story or company history using stunning vertical or horizontal timelines directly inside the Divi Builder. [**View Demo**](https://cooltimeline.com/divi/?utm_source=ctl_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=tmdivi_pro_demo)
 
 \== Installation ==
 
-1. **Install Elementor:** Ensure you have the Elementor Website Builder installed and activated.
-2. **Install Timeline Widget for Elementor:** Upload the plugin to your WordPress site and activate it.
-3. **Create a Timeline:** Go to your Elementor editor, drag and drop the Timeline Widget, and start creating your timeline.
-4. **Customize:** Use the settings to customize your timeline’s style, colors, animations, and more.
-5. **Publish:** Once your timeline is ready, publish it on your site to share your story with your visitors.
+1. Ensure that you have installed and activated the Elementor.
+2. Next install & activate **Timeline Widget** Plugin.
+3. Go to your Elementor editor, drag and drop the Timeline Widget, and start creating your timeline.
+4. Use the settings to customize your timeline’s style, colors, animations, and more.
+5. Once your timeline is ready, publish it on your site to share your story with your visitors.
 
 **Support and Documentation:**\
 For detailed help and support, visit our [support page](https://coolplugins.net/support/).
@@ -131,7 +84,7 @@ Installing the Timeline Widget for Elementor plugin is simple:
 
 **Can I use this plugin without Elementor?**
 
-No, the Timeline Widget for Elementor plugin is an addon for the Elementor Website Builder. You must have Elementor installed and activated to use this plugin.
+No, the Timeline Widget for Elementor plugin is an addon for the Elementor Website Builder. Ensure that you have installed and activated Elementor to use this plugin.
 
 **Is this plugin compatible with my theme?**
 
@@ -149,42 +102,13 @@ Yes, we offer technical support for the Timeline Widget for Elementor plugin. If
 
 Yes, you can use the Timeline Widget for Elementor plugin on multiple websites. Once you've purchased and installed the plugin, you can activate it on any WordPress site where you have Elementor installed.
 
-**Is there a pro version of this plugin available?**
-
-Yes, there is a [**PRO**](https://coolplugins.net/product/elementor-timeline-widget-pro-addon/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=buy_pro) version of the [Timeline Widget for Elementor](https://coolplugins.net/product/elementor-timeline-widget-pro-addon/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=buy_pro) plugin available with additional features such as preset styles, post timelines, advanced style settings, animation effects, and more. Visit our website to learn more about the pro version and its features.
-
 **What is the Elementor Timeline Widget?**
 
-The Elementor Timeline Widget is a plugin that lets you create and display stunning timelines on your website using the Elementor Website Builder.
+The Elementor Timeline Widget is a plugin that lets you create and display stunning timelines on your Elementor website.
 
 **How can I use the Elementor Timeline Widget?**
 
 You can use it to highlight various types of content such as company achievements, historical events, step-by-step guides, program schedules, event timelines, job stories, work experience, product roadmaps, and brand stories.
-
-**What are the main features of the Timeline Widget PRO?**
-
-* **Three Layout Options:** Vertical, Horizontal, and One-Sided timelines.
-* **Preset Styles:** Elegant, minimal, and classic styles available.
-* **Post Timeline:** Display blog posts in a timeline format.
-* **Advanced Style Settings:** Customize the look of your timeline.
-* **Animation Effects:** Over 15 effects like fade-in, flip-up, and zoom.
-* **Colors & Typography:** Adjust text size, fonts, and colors.
-* **Custom Color Stories:** Different colors for each story.
-* **Image/Video/Slideshow:** Add images, videos, or slideshows.
-* **Ajax Load More:** Load more stories as users scroll.
-* **Icons in Timeline:** Use icons, custom text, or images as markers.
-
-**Why should I use the Horizontal Layout?**
-
-The horizontal layout arranges stories from left to right, making it ideal for wide screens and showcasing processes, events, or milestones that progress over time. It offers sequential display, space efficiency, interactive design, customizable markers, and responsive design.
-
-**Do I need to install Elementor to use this plugin?**
-
-Yes, you must have the Elementor Website Builder installed to use the Elementor Timeline Widget.
-
-**Is the Timeline Widget easy to use?**
-
-Yes, it is designed to be user-friendly, allowing quick and easy creation and customization of timelines.
 
 **Can I customize the timeline to match my website's design?**
 
@@ -193,14 +117,6 @@ Yes, the widget provides advanced style settings for complete customization to f
 **What types of content can I include in my timeline?**
 
 You can include text, images, videos, slideshows, icons, and custom text.
-
-**How can I make my timelines more engaging?**
-
-Make your timelines more engaging by incorporating interactive elements, animation effects, and customizable markers.
-
-**What are the benefits of using the Elementor Timeline Widget?**
-
-The widget is versatile and suitable for various uses such as business milestones, personal stories, event planning, and more. It offers engaging visuals and is highly customizable to fit your website’s design.
 
 **How can I report security bugs?**
 

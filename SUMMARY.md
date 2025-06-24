@@ -21,7 +21,7 @@
   * [Events Calendar Modules for Divi](events-plugins/events-calendar-modules-for-divi.md)
   * [Countdown for The Events Calendar](events-plugins/countdown-for-the-events-calendar.md)
   * [Event Page Templates Addon for The Events Calendar](events-plugins/event-page-templates-addon-for-the-events-calendar.md)
-  * [Events Widgets for Elementor and The Events Calendar](events-widgets-for-elementor-and-the-events-calendar/readme.md)
+  * [Events Widgets for Elementor and The Events Calendar](events-plugins/events-widgets-for-elementor-and-the-events-calendar.md)
   * [Template Events Calendar](events-plugins/template-events-calendar.md)
   * [Events Search Addon for The Events Calendar](events-plugins/events-search-addon-for-the-events-calendar.md)
 * [Crypto Plugins](crypto-plugins/README.md)
