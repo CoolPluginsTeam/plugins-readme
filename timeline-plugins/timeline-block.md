@@ -17,14 +17,23 @@ Showcase your story or company history, events, process steps, milestones, and r
 
 **Timeline Block for Gutenberg/Block Editor**
 
-**Timeline Block** is a responsive WordPress block plugin for the Gutenberg block editor that allows you to create a beautiful vertical history timeline with one click. Just search '**Timeline Block**' from the block editor '**Add Block**' section and create a beautiful story timeline immediately.
-
-[View Demo ](https://cooltimeline.com/demo/gutenberg-timeline-block?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=top_view_demo)| [Watch Video Tutorials](https://cooltimeline.com/docs/timeline-block-pro/video-tutorials/free-plugin-video/?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=videos)| [Buy Pro](https://cooltimeline.com/plugin/timeline-block-pro-for-gutenberg/?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=buy_pro)
-
 {% embed url="https://www.youtube.com/watch?v=WsFekfIL-A8" %}
 
-It is essential to let your audience know about the **history** of your brand especially when you are promoting it through a website. Our plugin will help you **highlight events** and stories precise way.\
-You can show history/future stories, events, appointments, and many other cool things using the **Timeline Block** plugin. Here are all areas where you can use this plugin:-
+Timeline Block for Gutenberg is a powerful WordPress plugin designed specifically to help you build vertical step-by-step timelines, history/future stories, events, appointments, and many other cool things directly inside the WordPress editor.&#x20;
+
+Just search **‘Timeline Block‘** from the block editor ‘Add Block‘ section and create a beautiful story timeline.
+
+[View Demos ](https://cooltimeline.com/demo/gutenberg-timeline-block?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=top_view_demo)| [Watch Video Tutorials](https://cooltimeline.com/docs/timeline-block-pro/video-tutorials/free-plugin-video/?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=videos)
+
+### Key Features
+
+* **Vertical Timeline Layout:** Display your stories using a vertical timeline.&#x20;
+* **Multiple Timeline Designs:** Choose whether you want to display the timeline on both sides or one side according to your preferences.
+* **Content Alignment:** Align your timeline content to the left, right, or center.
+* **Customizable Labels:** Add labels like step numbers, dates, tags, or short titles to make your timeline more organized and easy to navigate.
+* **Story Icon Support:** Add a custom icon to each timeline step to give visual context, or, by default, you can choose to display a dot.
+
+### Where can you use Timeline Block?
 
 * Represent your **company story**.
 * Showcase tutorial/process steps in timeline format.
@@ -35,10 +44,9 @@ You can show history/future stories, events, appointments, and many other cool t
 * Personal **story timeline**.
 * Product **roadmap**.
 
-**Timeline Block Pro Features**
+**Upgrade To Pro!**
 
-Introducing Timeline Block Pro, the next-level evolution of our renowned timeline plugin. Packed with enhanced design options and functionalities, Timeline Block Pro makes crafting stunning timelines a breeze.\
-Dive into creativity with seamless integration of various media types, including video, images, and slideshows. With the pro version, you’ll have access to a range of advanced features such as:
+Upgrading to the pro version, unlocks the advanced features such as:
 
 * **Horizontal Layout:**\
   Timeline Block Pro offers Horizontal Default Design and Horizontal Simple Design layouts.
@@ -48,53 +56,21 @@ Dive into creativity with seamless integration of various media types, including
   Seamlessly integrate images, videos (YouTube), and slideshows into your timelines.
 * **Dot, Icon, Image & Text:**\
   Customize icons with options including dot, icon, image, and text for personalized timelines.
-* **15+ Animation Effects:**\
-  Choose from over 15 animation effects to enhance the visual appeal of your timelines.
-* **Icon/Label Positioning:**\
-  Easily adjust the placement of icons, arrows, and labels to suit your design preferences.
-* **Center Line Filling:**\
-  Add a center line filling effect to vertical layouts for enhanced visual presentation.
-* **Year Label:**\
-  Improve timeline readability by adding year labels to stories.
-* **Scrolling Navigation:**\
-  Enable scrolling navigation for quick access to specific year stories within your timelines.
-* **Read More Inside Timeline:**\
-  Include "read more" links within timeline stories to provide additional content or direct users to custom URLs.
-* **Move Story Content:**\
-  Easily rearrange story content, such as titles and descriptions, to better fit your timeline layout.
-* **Connector Style:**\
-  Customize connector styles between stories with options like Arrow, Line, or None for seamless visual continuity.
 
-[Buy Timeline Block Pro](https://cooltimeline.com/plugin/timeline-block-pro-for-gutenberg/?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=buy_pro)\
-\#### Check our other Timeline plugins
+[Upgrade to Pro](https://cooltimeline.com/plugin/timeline-block-pro-for-gutenberg/?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=buy_pro)
 
-* **Cool Timeline \[Free]**- [View Demo](https://cooltimeline.com/demo/cool-timeline-free/?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=view_free_demo)
-* **Cool Timeline Pro \[Pro]**- [View Demo](https://cooltimeline.com/demo/cool-timeline-pro/?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=view_pro_demo)
-* **Timeline Widget For Elementor \[Free]**- [Check it](https://wordpress.org/plugins/timeline-widget-addon-for-elementor/#description) | [View Demo](https://cooltimeline.com/demo/elementor-timeline/free/?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=twea_free_demo)
-* **Timeline Widget For Elementor PRO \[PRO]**- [View Demo](https://cooltimeline.com/demo/elementor-timeline/?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=twea_pro_demo)
-* **Timeline Builder PRO \[PRO]**- [View Demo](https://cooltimeline.com/demo/timeline-builder-pro/?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=tbp_view_demo)
-* **Timeline Module for Divi \[Free]**- [Check it](https://wordpress.org/plugins/timeline-module-for-divi)
-* **Timeline Module for Divi \[PRO]**- [View Demo](https://cooltimeline.com/divi/?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=tbp_view_demo)
+### Check Our Other Timeline Plugins
 
-\#### 😎 Who's Behind
+* **Cool Timeline:** Display your company’s history, product roadmaps, personal stories, or key events using the built-in block or via simple shortcode. [**View Demo**](https://cooltimeline.com/demo/cool-timeline-free/?utm_source=ctl_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=view_free_demos)
+* **Timeline Widget For Elementor:** Showcase your company history, product roadmap, and personal journey in vertical & horizontal layout directly inside Elementor. [**View Demo**](https://cooltimeline.com/demo/elementor-timeline/free/?utm_source=ctl_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=twea_free_demo)
+* **Timeline Builder:** Create a small timeline inside the Gutenberg block editor using a vertical or horizontal timeline. [**View Demo**](https://cooltimeline.com/demo/timeline-builder-pro/?utm_source=ctl_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=tbp_view_demo)
+* **Timeline Module Pro For Divi:** Showcase your personal story or company history using stunning vertical or horizontal timelines directly inside the Divi Builder. [**View Demo**](https://cooltimeline.com/divi/?utm_source=ctl_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=tmdivi_pro_demo)
 
-This timeline block plugin is created by [🔗 Cool Timeline](https://wordpress.org/plugins/cool-timeline/) plugin developers. **Cool Plugins** is the company behind this block plugin development.\
-Also, we created an Elementor Timeline widget addon for Elementor lovers, you can check it here:- [🔗 Timeline Widget For Elementor](https://wordpress.org/plugins/timeline-widget-addon-for-elementor/#description)
+\== Installation ==
 
-We have tried our best to create an awesome **timeline plugin** but still, if you face any installation, coding, or design error, you can [contact us](https://coolplugins.net/support/) anytime. Also, remember to try our Timeline Block Pro version for extra cool features and design options.
-
-**CREDITS**
-
-1. React FontIconPicker, Copyright (c) 2018 Swashata Ghosh, MIT license.
-2. Font Awesome Free, Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License.
-3. swiperjs, Copyright 2021 nolimits4web, MIT license.
-4. Animate. CSS, Copyright 2018 Daniel Eden, MIT license.
-
-Want To Contribute To The Plugin?
-
-You may now contribute to the plugin on GitHub:[Timeline Block For Gutenberg](https://github.com/narinder9/story-timeline-block)
-
-Many thanks to [**@drzraf**](https://github.com/drzraf) for their remarkable contributions.
+1. Go to the WordPress Block/Gutenberg Editor.
+2. Search For "Timeline Block".
+3. Install & activate the plugin.
 
 \== Screenshots ==
 
@@ -102,54 +78,15 @@ Many thanks to [**@drzraf**](https://github.com/drzraf) for their remarkable con
 2. Gutenberg Timeline Edit Story settings
 3. Gutenberg Timeline Block Settings
 
-\== Installation ==
-
-1. Go to the WordPress Block/Gutenberg Editor
-2. Search For "Timeline Block".
-3. Install in one 1-click\
-   \== Frequently Asked Questions ==
-
-**What is the Timeline Block plugin?**
-
-The Timeline Block plugin is a responsive WordPress block plugin designed for the Gutenberg block editor. It allows users to create beautiful vertical history timelines with just one click.
+\== Frequently Asked Questions ==
 
 **How do I add a Timeline Block in the Gutenberg editor?**
 
-You can add a Timeline Block by searching for 'Timeline Block' in the 'Add Block' section of the Gutenberg block editor and selecting it.
-
-**What can I use the Timeline Block plugin for?**
-
-The Timeline Block plugin can be used for various purposes, including:
-
-* Representing your company story.
-* Showcasing tutorial or process steps in a timeline format.
-* Creating a program timeline.
-* Representing history in an engaging way.
-* Creating events or appointments timelines.
-* Displaying job stories or achievements.
-* Sharing personal stories.
-* Highlighting a product roadmap.
-
-**What additional features does Timeline Block Pro offer?**
-
-Timeline Block Pro offers several advanced features, including:
-
-* Horizontal Layouts (Default and Simple Designs).
-* The ability to create and display multiple timelines on one website.
-* Integration of various media types such as video, images, and slideshows.
-* Customizable icons with options including dot, icon, image, and text.
-* Over 15 animation effects to enhance visual appeal.
-* Adjustable icon, arrow, and label positioning.
-* Center line filling effect for vertical layouts.
-* Year labels for improved timeline readability.
-* Scrolling navigation for quick access to specific year stories.
-* “Read more” links within timeline stories.
-* The ability to rearrange story content.
-* Customizable connector styles between stories.
+You can add a Timeline by searching for 'Timeline Block' in the 'Add Block' section of the Gutenberg editor.
 
 **Can I add videos to my timeline?**
 
-Yes, with Timeline Block Pro, you can seamlessly integrate videos (including YouTube), images, and slideshows into your timelines.
+Yes, with Timeline Block Pro, you can integrate videos (including YouTube), images, and slideshows into your timelines.
 
 **Is it possible to create multiple timelines on a single website?**
 
@@ -188,21 +125,9 @@ Yes, the Timeline Block is compatible with RTL languages and adjusts layouts acc
 
 Yes, you can use the block settings to customize colors, typography, and layouts. For advanced styling, custom CSS can be added through the WordPress Customizer or a child theme.
 
-**Is the plugin mobile-friendly?**
-
-Yes, the Timeline Block is fully responsive and adjusts seamlessly to different screen sizes, including mobile devices.
-
 **Can I display dynamic content in the timeline?**
 
 Currently, the plugin does not support dynamic content directly. However, you can manually add custom stories or events.
-
-**Does the plugin work with multisite WordPress installations?**
-
-Yes, the plugin is compatible with WordPress multisite setups.
-
-**How can I migrate existing timelines from other plugins?**
-
-The plugin provides migration options for certain timeline setups. Check the settings for available migration tools or refer to the documentation for guidance.
 
 **Can I schedule timeline updates for future dates?**
 
