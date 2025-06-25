@@ -19,11 +19,11 @@ Showcase your company history, process steps, milestones, and roadmap inside Gut
 
 {% embed url="https://www.youtube.com/watch?v=WsFekfIL-A8" %}
 
-Timeline Block for Gutenberg is a powerful WordPress plugin designed specifically to help you build vertical step-by-step timelines, history/future stories, events, appointments, and many other cool things directly inside the WordPress editor.&#x20;
+[Timeline Block for Gutenberg](https://cooltimeline.com/plugin/timeline-block-pro-for-gutenberg/?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=top_description) is a powerful WordPress plugin designed specifically to help you build vertical step-by-step timelines, history/future stories, events, appointments, and many other cool things directly inside the WordPress editor.&#x20;
 
 Just search **‘Timeline Block‘** from the block editor ‘Add Block‘ section and create a beautiful story timeline.
 
-[View Demos ](https://cooltimeline.com/demo/gutenberg-timeline-block?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=top_view_demo)| [Watch Video Tutorials](https://cooltimeline.com/docs/timeline-block-pro/video-tutorials/free-plugin-video/?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=videos)
+[View Demos ](https://cooltimeline.com/demo/gutenberg-timeline-block?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=view_demo)| [Watch Video Tutorials](https://cooltimeline.com/docs/timeline-block-pro/video-tutorials/free-plugin-video/?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=docs\&utm_content=video_tutorial)
 
 ### Key Features
 
@@ -57,14 +57,14 @@ Upgrading to the [**pro version**](https://cooltimeline.com/plugin/timeline-bloc
 * **Dot, Icon, Image & Text:**\
   Customize icons with options including dot, icon, image, and text for personalized timelines.
 
-[**Upgrade to Pro**](https://cooltimeline.com/plugin/timeline-block-pro-for-gutenberg/?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=buy_pro)
+[Upgrade to Pro](https://cooltimeline.com/plugin/timeline-block-pro-for-gutenberg/?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=upgarde_to_pro)
 
 ### Check Our Other Timeline Plugins
 
-* **Cool Timeline:** Display your company’s history, product roadmaps, personal stories, or key events using the built-in block or via simple shortcode. [**View Demo**](https://cooltimeline.com/demo/cool-timeline-free/?utm_source=ctl_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=view_free_demos)
-* **Timeline Widget For Elementor:** Showcase your company history, product roadmap, and personal journey in vertical & horizontal layout directly inside Elementor. [**View Demo**](https://cooltimeline.com/demo/elementor-timeline/free/?utm_source=ctl_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=twea_free_demo)
-* **Timeline Builder:** Create a small timeline inside the Gutenberg block editor using a vertical or horizontal timeline. [**View Demo**](https://cooltimeline.com/demo/timeline-builder-pro/?utm_source=ctl_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=tbp_view_demo)
-* **Timeline Module Pro For Divi:** Showcase your personal story or company history using stunning vertical or horizontal timelines directly inside the Divi Builder. [**View Demo**](https://cooltimeline.com/divi/?utm_source=ctl_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=tmdivi_pro_demo)
+* **Cool Timeline:** Display your company’s history, product roadmaps, personal stories, or key events using the built-in block or via simple shortcode. [**View Demo**](https://cooltimeline.com/demo/cool-timeline-free/?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=ctl_free_demo)
+* **Timeline Widget For Elementor:** Showcase your company history, product roadmap, and personal journey in vertical & horizontal layout directly inside Elementor. [**View Demo**](https://cooltimeline.com/demo/elementor-timeline-widget/free/?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=twea_free_demo)
+* **Timeline Builder:** Create a small timeline inside the Gutenberg block editor using a vertical or horizontal timeline. [**View Demo**](https://cooltimeline.com/demo/timeline-builder-pro/?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=tbp_view_demo)
+* **Timeline Module Pro For Divi:** Showcase your personal story or company history using stunning vertical or horizontal timelines directly inside the Divi Builder. [**View Demo**](https://cooltimeline.com/divi/?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=tmdivi_view_demo)
 
 \== Installation ==
 
