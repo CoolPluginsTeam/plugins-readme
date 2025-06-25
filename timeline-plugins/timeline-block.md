@@ -11,7 +11,7 @@ Stable tag:1.7.2\
 License: GPLv2 or later\
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Showcase your story or company history, events, process steps, milestones, and roadmap in a precise and elegant way using the powerful Timeline Block
+Showcase your company history, process steps, milestones, and roadmap inside Gutenberg using the powerful Timeline Block
 
 \== Description ==
 
