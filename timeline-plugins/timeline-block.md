@@ -68,7 +68,7 @@ Upgrading to the pro version, unlocks the advanced features such as:
 
 \== Installation ==
 
-1. Go to the WordPress Block/Gutenberg Editor.
+1. From the WordPress dashboard, navigate to **Plugins > Add New**.
 2. Search For "Timeline Block".
 3. Install & activate the plugin.
 
