@@ -44,9 +44,7 @@ Just search **‘Timeline Block‘** from the block editor ‘Add Block‘ secti
 * Personal **story timeline**.
 * Product **roadmap**.
 
-**Upgrade To Pro!**
-
-Upgrading to the [**pro version**](https://cooltimeline.com/plugin/timeline-block-pro-for-gutenberg/#pricing), unlocks the advanced features such as:
+**Upgrade To Pro:**
 
 * **Horizontal Layout:**\
   Timeline Block Pro offers Horizontal Default Design and Horizontal Simple Design layouts.
