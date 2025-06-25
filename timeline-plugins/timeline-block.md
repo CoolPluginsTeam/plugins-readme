@@ -46,7 +46,7 @@ Just search **‘Timeline Block‘** from the block editor ‘Add Block‘ secti
 
 **Upgrade To Pro!**
 
-Upgrading to the pro version, unlocks the advanced features such as:
+Upgrading to the [**pro version**](https://cooltimeline.com/plugin/timeline-block-pro-for-gutenberg/#pricing), unlocks the advanced features such as:
 
 * **Horizontal Layout:**\
   Timeline Block Pro offers Horizontal Default Design and Horizontal Simple Design layouts.
@@ -57,7 +57,7 @@ Upgrading to the pro version, unlocks the advanced features such as:
 * **Dot, Icon, Image & Text:**\
   Customize icons with options including dot, icon, image, and text for personalized timelines.
 
-[Upgrade to Pro](https://cooltimeline.com/plugin/timeline-block-pro-for-gutenberg/?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=buy_pro)
+[**Upgrade to Pro**](https://cooltimeline.com/plugin/timeline-block-pro-for-gutenberg/?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=buy_pro)
 
 ### Check Our Other Timeline Plugins
 
