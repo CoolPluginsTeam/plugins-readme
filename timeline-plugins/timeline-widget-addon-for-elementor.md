@@ -8,17 +8,16 @@ Requires at least:5.0\
 Tested up to:6.8.1\
 Requires PHP:7.2\
 Stable tag:1.6.8\
-License:GPLv2 or later
+License:GPLv2 or later\
 License URI:http://www.gnu.org/licenses/gpl-2.0.html
 
 Highlight your company’s history, milestones, and key events directly inside Elementor using stunning **vertical** and **horizontal timelines**.
 
-== Description ==
+\== Description ==
 
 #### Elementor Timeline - Vertical & Horizontal Timeline
 
 {% embed url="https://www.youtube.com/watch?v=_WYTT0iBvyo" %}
-
 
 [**Timeline Widget for Elementor**](https://cooltimeline.com/plugin/elementor-timeline-widget-pro/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=top_description) is a powerful plugin that allows you to create stunning [**vertical**](https://cooltimeline.com/demo/elementor-timeline-widget/free/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=vertical_free_demo) and [**horizontal**](https://cooltimeline.com/demo/elementor-timeline-widget/free/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=horizontal_free_demo#horizontal-layout) timelines to showcase your achievements, personal journey, or company history directly inside Elementor.
 
