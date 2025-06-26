@@ -31,7 +31,9 @@ Just search **‘Timeline Block‘** from the block editor ‘Add Block‘ secti
 * **Multiple Timeline Designs:** Choose whether you want to display the timeline on both sides or one side according to your preferences.
 * **Content Alignment:** Align your timeline content to the left, right, or center.
 * **Customizable Labels:** Add labels like step numbers, dates, tags, or short titles to make your timeline more organized and easy to navigate.
+* **Image & Multimedia Support:** Enhance your timeline’s engagement using interactive images that visually tell your story.
 * **Story Icon Support:** Add a custom icon to each timeline step to give visual context, or, by default, you can choose to display a dot.
+* **Fully Responsive:** This plugin is fully responsive, ensuring that your events display perfectly on all screen sizes.
 
 ### Where can you use Timeline Block?
 
