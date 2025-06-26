@@ -13,7 +13,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 
 Highlight your company’s history, milestones, and key events directly inside Elementor using stunning **vertical** and **horizontal timelines**.
 
-\== Description ==
+== Description ==
 
 #### Elementor Timeline - Vertical & Horizontal Timeline
 
