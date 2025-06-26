@@ -22,7 +22,7 @@ Add conditions to Elementor form fields to hide or show a form field based on in
 
 Conditional logic is a way to control what happens next based on certain conditions.&#x20;
 
-**For example,** in an online form, you can show or hide fields depending on the user’s previous answers. If someone selects **“Yes”** to a question, additional related fields might appear. If they choose **“No”** those fields stay hidden. This means the form adapts to the user’s responses, making it simpler and more relevant.
+**For example,** if someone selects **“Yes”** to a question, additional related fields might appear. If they choose **“No”** those fields stay hidden. This means the form adapts to the user’s responses, making it simpler and more relevant.
 
 [**CHECK PLUGIN DEMO**](https://coolplugins.net/product/conditional-fields-for-elementor-form/?utm_source=cfef_plugin\&utm_medium=readme\&utm_campaign=get-pro\&utm_content=view-demos#demos)
 
