@@ -16,7 +16,7 @@ Add conditions to Elementor form fields to hide or show a form field based on in
 
 \== Description ==
 
-[**Conditional Fields for Elementor Form**](https://coolplugins.net/product/conditional-fields-for-elementor-form/?utm_source=cfef_plugin\&utm_medium=readme\&utm_campaign=get-pro\&utm_content=plugin-name) is an addon that extends the functionality of Elementor forms by allowing you to **show/hide** or **enable/disable** form fields based on user selections or input values using simple conditional logic.&#x20;
+[**Conditional Fields for Elementor Form**](https://coolplugins.net/product/conditional-fields-for-elementor-form/?utm_source=cfef_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=top_description) is an addon that extends the functionality of Elementor forms by allowing you to **show/hide** or **enable/disable** form fields based on user selections or input values using simple conditional logic.&#x20;
 
 {% embed url="https://youtu.be/0Fbueg7DSts" %}
 
@@ -24,11 +24,11 @@ Conditional logic is a way to control what happens next based on certain conditi
 
 **For example,** if someone selects **“Yes”** to a question, additional related fields might appear. If they choose **“No”** those fields stay hidden. This means the form adapts to the user’s responses, making it simpler and more relevant.
 
-[**CHECK PLUGIN DEMO**](https://coolplugins.net/product/conditional-fields-for-elementor-form/?utm_source=cfef_plugin\&utm_medium=readme\&utm_campaign=get-pro\&utm_content=view-demos#demos)
+[**CHECK PLUGIN DEMO**](https://coolplugins.net/product/conditional-fields-for-elementor-form/?utm_source=cfef_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=view_demos)
 
 ### Key Features
 
-* [**Show / Hide Fields Conditionally:**](https://coolplugins.net/product/conditional-fields-for-elementor-form/?utm_source=cfef_plugin\&utm_medium=readme\&utm_campaign=get-pro\&utm_content=view-demos#demos) Easily add conditional logic to show or hide any field within an Elementor form based on values from other fields.&#x20;
+* [**Show / Hide Fields Conditionally:**](https://coolplugins.net/product/conditional-fields-for-elementor-form/?utm_source=cfef_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=show_hide_fields) Easily add conditional logic to show or hide any field within an Elementor form based on values from other fields.&#x20;
 * **If / Else Logic:** Use simple "if/else" conditions to control field visibility or state. Just enter the ID of the source field and define what should happen.\
   **Example:**\
   If **query\_type == check-order-status**, show the **“Order ID”** field; otherwise, keep it hidden.
@@ -44,13 +44,13 @@ Conditional logic is a way to control what happens next based on certain conditi
 * [**Apply Multiple Conditions (AND / OR Logic)**](https://coolplugins.net/product/conditional-fields-for-elementor-form/?utm_source=cfef_plugin\&utm_medium=readme\&utm_campaign=get-pro\&utm_content=view-demos#multiple-conditions)**:** Apply multiple conditions to form fields using AND/OR logic. This means actions are triggered if ANY or ALL conditions are met.
 * [**Conditions Triggers / Compare Operators**](https://coolplugins.net/product/conditional-fields-for-elementor-form/?utm_source=cfef_plugin\&utm_medium=readme\&utm_campaign=get-pro\&utm_content=view-demos#condition-operators)**:** Compare field values using various operators such as is equal (==), not equal (!=), greater than (>), less than (<), greater than or equal to (>=), less than or equal to (<=), contains, does not contain, starts with, and ends with, as well as is empty and not empty.
 
-[**Get Pro!**](https://coolplugins.net/product/conditional-fields-for-elementor-form/?utm_source=cfef_plugin\&utm_medium=readme\&utm_campaign=get-pro\&utm_content=get-pro)
+[**Get Pro!**](https://coolplugins.net/product/conditional-fields-for-elementor-form/?utm_source=cfef_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=get_pro)
 
 ### Check Our Other Elementor Addons
 
-* [**Cool FormKit For Elementor Forms**](https://coolplugins.net/cool-formkit-for-elementor-forms/?utm_source=cfef_plugin\&utm_medium=readme\&utm_campaign=get-pro\&utm_content=buy-coolformkit)**:** Add advanced fields and features to your Elementor form widget, like **conditional fields**, **range sliders,** **country code,** and **more.**
+* [**Cool FormKit For Elementor Forms**](https://coolplugins.net/cool-formkit-for-elementor-forms/?utm_source=cfef_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=cfkef_more_plugins)**:** Add advanced fields and features to your Elementor form widget, like **conditional fields**, **range sliders,** **country code,** and **more.**
 * [**Country Code For Elementor Form Telephone Field**](https://coolplugins.short.gy/country-code)**:** Guide your visitors to select their country code while entering their mobile number, ensuring accurate and properly formatted data submissions.
-* [**Input Masks for Elmentor Form:**](https://coolplugins.net/product/input-mask-elementor-form/) Implement pre-defined formatting to form fields like **phone numbers**, **credit card details**, **dates**, and more, ensuring data is entered accurately.
+* [**Input Masks for Elmentor Form:**](https://wordpress.org/plugins/form-masks-for-elementor/) Implement pre-defined formatting to form fields like **phone numbers**, **credit card details**, **dates**, and more, ensuring data is entered accurately.
 
 \== Frequently Asked Questions ==
 
