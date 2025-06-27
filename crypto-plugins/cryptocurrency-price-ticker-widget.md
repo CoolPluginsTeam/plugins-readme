@@ -23,7 +23,7 @@ https://youtu.be/rqemHFw9KW8
 
 The key feature of this plugin is the ability to show real-time updates. This plugin utilizes third-party crypto APIs to fetch the latest market prices of virtual coins by quickly retrieving data from leading crypto exchanges.
 
-[**View Demos**](https://cryptocurrencyplugins.com/demo/cryptocurrency-widgets-pro/?utm_source=ccw_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=top_view_demo)
+[**View Demos**](https://cryptocurrencyplugins.com/demo/cryptocurrency-widgets-pro/?utm_source=ccw_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=view_demos)
 
 ### Key Features
 
@@ -37,7 +37,7 @@ The key feature of this plugin is the ability to show real-time updates. This pl
 * **Compatibility with WordPress Themes:** This plugin is compatible with all WordPress themes.
 * **Fully Responsive:** Ensures your site looks visually appealing across all devices.
 
-**FREE Version Demos**
+**Free Version Demos**
 
 * [**Crypto Price Ticker**](https://cryptocurrencyplugins.com/demo/cryptocurrency-widgets-pro/crypto-price-ticker-widget/?utm_source=ccw_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=price_ticker)
 * [**Coins Price List**](https://cryptocurrencyplugins.com/demo/cryptocurrency-widgets-pro/crypto-price-list-widget/?utm_source=ccw_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=price_list)
@@ -45,7 +45,7 @@ The key feature of this plugin is the ability to show real-time updates. This pl
 
 ### Upgrade To Pro!
 
-Upgrading to the [**Pro version**](https://cryptocurrencyplugins.com/wordpress-plugin/pay-with-metamask-for-woocommerce-pro/) unlocks the advanced features and functionalities:
+Upgrading to the [**Pro version**](https://cryptocurrencyplugins.com/wordpress-plugin/cryptocurrency-widgets-pro/?utm_source=ccw_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=pro_version) unlocks the advanced features and functionalities:
 
 1. **Number of Coins:** In the free version, you can only display prices of the top 250 crypto coins, while in the Pro version, you can display price widgets of any crypto coin from the top 2500.
 2. **Real Time Price Updates:** In the free version, crypto coin prices are updated every 5 to 10 minutes from the API. However, with the Pro version, you can enjoy real-time price updates for any coin listed on Binance, thanks to integration with the Binance API.
@@ -63,12 +63,12 @@ Upgrading to the [**Pro version**](https://cryptocurrencyplugins.com/wordpress-p
 
 #### Check Our Other Cryptocurrency Plugins
 
-* [**Coins MarketCap Plugin**](https://codecanyon.net/item/coin-market-cap-prices-wordpress-cryptocurrency-plugin/21429844)**:** Effortlessly integrate real-time market data for over 2,500 coins, including _prices, market caps,_ and _trading volumes_. The plugin supports multiple fiat currencies and is **Yoast SEO** friendly, ensuring each coin has unique meta tags for better search engine visibility.
+* [**Coins MarketCap Plugin**](https://cryptocurrencyplugins.com/wordpress-plugin/coins-marketcap/?utm_source=ccw_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=cmc_view_plugin)**:** Effortlessly integrate real-time market data for over 2,500 coins, including _prices, market caps,_ and _trading volumes_. The plugin supports multiple fiat currencies and is **Yoast SEO** friendly, ensuring each coin has unique meta tags for better search engine visibility.
 
 > Get a [complete website like coinmarketcap.com](https://cryptocurrencyplugins.com/coinmarketcap-clone-website/?utm_source=ccw_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=cmc_clone_site) that includes our all crypto plugins. Our developer will set it up for you.
 
-* [**Cryptocurrency Exchanges List Pro**](https://codecanyon.net/item/cryptocurrency-exchanges-list-pro-wordpress-plugin/22098669?s_rank=1)**:** Display real-time data from over 250 cryptocurrency exchanges on your website. Create automatic exchange pages showing trading pairs and volumes. Easily enable or disable exchanges as needed.
-* **Pay With MetaMask:** If you run a WooCommerce store and want to accept cryptocurrency payments at checkout, our WooCommerce Crypto Payments plugin makes it simple. Customers can pay directly with crypto using Web3 wallets such as MetaMask, WalletConnect, and more. You can [test crypto payment integration in WooCommerce](https://paywithcryptocurrency.net/wordpress-plugin/test-cryptocurrency-payment/?utm_source=ccw_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=cpmw_view_demo) by purchasing a dummy product on our demo site using [faucet tokens](https://paywithcryptocurrency.net/plugin-features/test-networks-and-tokens/?utm_source=ccw_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=cpmw_faucet).
+* [**Cryptocurrency Exchanges List Pro**](https://cryptocurrencyplugins.com/wordpress-plugin/cryptocurrency-exchanges-list-pro/?utm_source=ccw_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=celp_view_plugin)**:** Display real-time data from over 250 cryptocurrency exchanges on your website. Create automatic exchange pages showing trading pairs and volumes. Easily enable or disable exchanges as needed.
+* [**Pay With MetaMask**](https://cryptocurrencyplugins.com/wordpress-plugin/pay-with-metamask-for-woocommerce-pro/?utm_source=ccw_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=cpmw_view_plugin)**:** If you run a WooCommerce store and want to accept cryptocurrency payments at checkout, our WooCommerce Crypto Payments plugin makes it simple. Customers can pay directly with crypto using Web3 wallets such as MetaMask, WalletConnect, and more. You can [test crypto payment integration in WooCommerce](https://paywithcryptocurrency.net/wordpress-plugin/test-cryptocurrency-payment/?utm_source=ccw_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=cpmw_view_demo) by purchasing a dummy product on our demo site using [faucet tokens](https://paywithcryptocurrency.net/plugin-features/test-networks-and-tokens/?utm_source=ccw_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=cpmw_faucet).
 
 > #### Disclaimer
 >
