@@ -87,35 +87,35 @@ Save or update the page and see the results and actions!
 
 \== Frequently Asked Questions ==
 
-#### = Which operators can I use to compare conditional field values? =
+\= Which operators can I use to compare conditional field values? =
 
 You can trigger conditions on a field by comparing values with several operators:
 
 * **is equal (==), not equal (!=), greater than (>), less than (<)** - These are available in the free version.
 * The Pro version supports additional operators: **greater than or equal to (>=), less than or equal to (<=), contains, does not contain, empty, not empty, starts with, ends with**.
 
-#### = On which form fields can I apply conditions? =
+\= On which form fields can I apply conditions? =
 
 You can apply conditions on these fields of Elementor form: **text, textarea, email, tel, radio, select, file upload, HTML, and checkbox**.
 
-#### = Can I hide/show or disable/enable a form field conditionally? =
+\= Can I hide/show or disable/enable a form field conditionally? =
 
 In the free version, you can hide or show form fields based on conditional triggers. The Pro version also allows you to enable or disable fields conditionally.
 
-#### = How can I apply multiple conditions on Elementor form fields? =
+\= How can I apply multiple conditions on Elementor form fields? =
 
 You can add multiple conditions to a form field and trigger them using **AND/OR logic**:
 
 * **AND** means all conditions must be met to trigger an action on that field.
 * **OR** logic, which triggers an action if any condition is met, is available in the Pro version of the Conditional Fields For Elementor plugin.
 
-#### = Can I conditionally redirect an Elementor form after submission? =
+\= Can I conditionally redirect an Elementor form after submission? =
 
 You can conditionally redirect an Elementor form to a specific URL after submission based on user input within form fields.
 
 This feature is available in the Pro version of Conditional Fields For Elementor.
 
-#### = Can I enable/disable the form submit button conditionally? =
+\= Can I enable/disable the form submit button conditionally? =
 
 Yes, you can **conditionally hide/show or enable/disable the submit button of the Elementor form** based on input values from other fields.
 
