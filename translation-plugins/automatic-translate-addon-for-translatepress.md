@@ -59,11 +59,11 @@ Powered by advanced **AI translator** resources, it delivers accurate and fast t
 * [**Automatic Translate Addon for Loco Translate**](https://locoaddon.com/plugin/automatic-translate-addon-for-loco-translate-pro/?utm_source=tpa_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=buy_pro) is an addon that enhances the functionality of the **Loco Translate** plugin by enabling the **automatic translation of WordPress themes and plugins**. This addon connects with sources like Google, Yandex, DeepL, or AI-powered sources like ChatGPT, Gemini AI and **Chrome AI**  to provide instant and automated translations.
 * [**AI Translation For Polylang**](https://coolplugins.net/product/automatic-translations-for-polylang/?utm_source=tpa_plugin\&utm_medium=readme\&utm_campaign=atfp_get_pro\&utm_content=check_out) duplicates your page or post titles, content, images, galleries, or meta fields, and automatically translates them into the selected language. Whether you’re using **Elementor** or **Gutenberg**, this addon makes the translation process easier.
 
-#### ✍ Special THANKS!
+#### Special THANKS!
 
 Special thanks to [**TranslatePress – Translate Multilingual sites**](https://wordpress.org/plugins/translatepress-multilingual/) plugin author, **cozmoslabs, Razvan Mocanu,** for creating an awesome plugin for translations and also thanks to Yandex for providing a translate widget for websites.
 
-#### 🌴 Important Links & Information
+#### Important Links & Information
 
 * [Yandex Translate Terms](https://yandex.com/legal/translate_termsofuse/)
 * [Yandex Privacy Policy](https://yandex.com/legal/confidential/)
