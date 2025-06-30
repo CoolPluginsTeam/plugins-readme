@@ -1,4 +1,4 @@
-# Automatic Translator Addon for Loco Translate
+# Automatic Translate Addon for Loco Translate
 
 \=== Automatic Translate Addon For Loco Translate ===\
 Contributors: narinder-singh, satindersingh, coolplugins\
@@ -38,7 +38,7 @@ Loco Translate is primarily a manual translation tool for translating WordPress 
 
 > “If you spend too much time thinking about a thing, you'll never get it done. Stop wasting time, complete work smartly & quickly!”
 
-#### 🌟 FREE v/s Premium Addon Comparison
+#### FREE v/s Premium Addon Comparison
 
 **Free License**
 
