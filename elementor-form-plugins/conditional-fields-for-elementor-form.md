@@ -107,19 +107,19 @@ In the free version, you can hide or show form fields based on conditional trigg
 You can add multiple conditions to a form field and trigger them using **AND/OR logic**:
 
 * **AND** means all conditions must be met to trigger an action on that field.
-* **OR** logic, which triggers an action if any condition is met, is available in the Pro version of the [Conditional Fields For Elementor](https://coolplugins.net/product/conditional-fields-for-elementor-form/?utm_source=cfef_plugin\&utm_medium=readme\&utm_campaign=get-pro\&utm_content=faqs-and-or) plugin.
+* **OR** logic, which triggers an action if any condition is met, is available in the Pro version of the Conditional Fields For Elementor plugin.
 
 #### = Can I conditionally redirect an Elementor form after submission? =
 
 You can conditionally redirect an Elementor form to a specific URL after submission based on user input within form fields.
 
-This feature is available in the Pro version of [Conditional Fields For Elementor](https://coolplugins.net/product/conditional-fields-for-elementor-form/?utm_source=cfef_plugin\&utm_medium=readme\&utm_campaign=get-pro\&utm_content=faqs-redirect).
+This feature is available in the Pro version of Conditional Fields For Elementor.
 
 #### = Can I enable/disable the form submit button conditionally? =
 
 Yes, you can **conditionally hide/show or enable/disable the submit button of the Elementor form** based on input values from other fields.
 
-**For example**, if a user adds illegal words in a textarea, you can disable the submit button based on that condition. This feature requires activating the Pro version of [Conditional Fields For Elementor](https://coolplugins.net/product/conditional-fields-for-elementor-form/?utm_source=cfef_plugin\&utm_medium=readme\&utm_campaign=get-pro\&utm_content=faqs-button).
+**For example**, if a user adds illegal words in a textarea, you can disable the submit button based on that condition. This feature requires activating the Pro version of Conditional Fields For Elementor.
 
 \= How can I implement conditional logic in Elementor Free forms? =\
 Use Conditional Fields for Elementor Form to add conditional logic to Hello Plus forms in Elementor Free. This lets you show or hide form fields based on what the user selects without the need of Elementor Pro.
