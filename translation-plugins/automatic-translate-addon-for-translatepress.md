@@ -56,7 +56,7 @@ Powered by advanced **AI translator** resources, it delivers accurate and fast t
 
 #### Check out our other advanced Automatic Translate Addons
 
-* [**Automatic Translate Addon for Loco Translate**](https://locoaddon.com/plugin/automatic-translate-addon-for-loco-translate-pro/?utm_source=tpa_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=buy_pro) is an addon that enhances the functionality of the **Loco Translate** plugin by enabling the **automatic translation of WordPress themes and plugins**. This addon connects with sources like Google, Yandex, DeepL, or AI-powered sources like ChatGPT, Gemini AI and **Chrome AI**  to provide instant and automated translations.
+* [**Automatic Translate Addon for Loco Translate**](https://locoaddon.com/plugin/automatic-translate-addon-for-loco-translate-pro/?utm_source=tpa_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=buy_pro) is an addon that enhances the functionality of the **Loco Translate** plugin by enabling the **automatic translation of WordPress themes and plugins**. This addon connects with sources like Google, Yandex, DeepL, or AI-powered sources like **ChatGPT,** **Gemini AI** and **Chrome AI**  to provide instant and automated translations.
 * [**AI Translation For Polylang**](https://coolplugins.net/product/automatic-translations-for-polylang/?utm_source=tpa_plugin\&utm_medium=readme\&utm_campaign=atfp_get_pro\&utm_content=check_out) duplicates your page or post titles, content, images, galleries, or meta fields, and automatically translates them into the selected language. Whether you’re using **Elementor** or **Gutenberg**, this addon makes the translation process easier.
 
 #### Special THANKS!
@@ -107,7 +107,7 @@ The pro version offers additional features like using the Google Translate widge
 Since this is a beta feature, detailed setup instructions are required. Please refer to the Chrome AI Translator API documentation for a step-by-step guide: [Chrome AI Translator API documentation](https://developer.chrome.com/docs/ai/translator-api)
 
 \= How can I report security bugs? =\
-You can report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team help validate, triage and handle any security vulnerabilities.[Report a security vulnerability](https://patchstack.com/database/wordpress/plugin/automatic-translate-addon-for-translatepress/vdp)
+You can report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team helps validate, triage, and handle any security vulnerabilities. [Report a security vulnerability](https://patchstack.com/database/wordpress/plugin/automatic-translate-addon-for-translatepress/vdp)
 
 \== Changelog ==
 
