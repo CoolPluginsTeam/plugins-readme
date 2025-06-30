@@ -10,7 +10,7 @@
 * [Translation Plugins](translation-plugins/README.md)
   * [Automatic Translate Addon for TranslatePress](translation-plugins/automatic-translate-addon-for-translatepress.md)
   * [Automatic Translations for Polylang](translation-plugins/automatic-translations-for-polylang.md)
-  * [Automatic Translator Addon for Loco Translate](translation-plugins/automatic-translator-addon-for-loco-translate.md)
+  * [Automatic Translate Addon for Loco Translate](translation-plugins/automatic-translator-addon-for-loco-translate.md)
   * [Duplicate Content Addon for Polylang](translation-plugins/duplicate-content-addon-for-polylang.md)
 * [Timeline Plugins](timeline-plugins/README.md)
   * [Cool Timeline](timeline-plugins/cool-timeline.md)
