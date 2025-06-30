@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=X\_1RbSVgnOc
 
 **Automatic Translate Addon for Loco Translate** is a WordPress plugin extension that enhances the functionality of the popular **Loco Translate** plugin by adding automatic translation capabilities using third-party machine translation services like Google Translate, DeepL, ChatGPT, Gemini AI, and Chrome Built-in AI, and others.
 
-Loco Translate is primarily a manual translation tool for translating WordPress themes and plugins from within the WordPress admin. However, it doesn’t include built-in support for automatic translations. That’s where the **Automatic Translate Addon** comes in.
+Loco Translate is primarily a manual translation tool for translating WordPress themes and plugins from within the WordPress admin. However, it doesn’t include built-in support for automatic translations. That’s where our **Automatic Translate Addon** comes in.
 
 [How It Works](https://locoaddon.com/how-it-works/?utm_source=atlt_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=how_it_works)
 
