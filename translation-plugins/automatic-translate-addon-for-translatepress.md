@@ -18,7 +18,7 @@ Auto-translate unlimited strings and characters using AI & Machine Translation t
 
 {% embed url="https://www.youtube.com/watch?v=kgu4hWn7bms&ab_channel=CoolPlugins" %}
 
-**AI Translation for TranslatePress** is a powerful [**TranslatePress**](https://wordpress.org/plugins/translatepress-multilingual/#description) extension that enhances the functionality of the TranslatePress plugin. This addon uses advanced translation services, like Google Translate, Yandex, and Chrome AI translator, to provide accurate and instant translations for your web pages automatically.
+[**AI Translation for TranslatePress** ](automatic-translate-addon-for-translatepress.md)is a powerful **TranslatePress** extension that enhances the functionality of the TranslatePress plugin. This addon uses advanced translation services, like Google Translate, Yandex, and Chrome AI translator, to provide accurate and instant translations for your web pages automatically.
 
 Powered by advanced **AI translator** resources, it delivers accurate and fast translations, helping you reach a global audience with ease.&#x20;
 
