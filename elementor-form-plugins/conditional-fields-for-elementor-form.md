@@ -52,61 +52,11 @@ Conditional logic is a way to control what happens next based on certain conditi
 * [**Country Code For Elementor Form Telephone Field**](https://coolplugins.short.gy/country-code)**:** Guide your visitors to select their country code while entering their mobile number, ensuring accurate and properly formatted data submissions.
 * [**Input Masks for Elmentor Form:**](https://wordpress.org/plugins/form-masks-for-elementor/) Implement pre-defined formatting to form fields like **phone numbers**, **credit card details**, **dates**, and more, ensuring data is entered accurately.
 
-\== Frequently Asked Questions ==
-
-#### Which operators can I use to compare conditional field values?
-
-You can trigger conditions on a field by comparing values with several operators:
-
-* **is equal (==), not equal (!=), greater than (>), less than (<)** - These are available in the free version.
-* The Pro version supports additional operators: **greater than or equal to (>=), less than or equal to (<=), contains, does not contain, empty, not empty, starts with, ends with**.
-
-#### On which form fields can I apply conditions?
-
-You can apply conditions on these fields of Elementor form: **text, textarea, email, tel, radio, select, file upload, HTML, and checkbox**.
-
-#### Can I hide/show or disable/enable a form field conditionally?
-
-In the free version, you can hide or show form fields based on conditional triggers. The Pro version also allows you to enable or disable fields conditionally.
-
-#### How can I apply multiple conditions on Elementor form fields?
-
-You can add multiple conditions to a form field and trigger them using **AND/OR logic**:
-
-* **AND** means all conditions must be met to trigger an action on that field.
-* **OR** logic, which triggers an action if any condition is met, is available in the Pro version of the [Conditional Fields For Elementor](https://coolplugins.net/product/conditional-fields-for-elementor-form/?utm_source=cfef_plugin\&utm_medium=readme\&utm_campaign=get-pro\&utm_content=faqs-and-or) plugin.
-
-#### Can I conditionally redirect an Elementor form after submission?
-
-You can conditionally redirect an Elementor form to a specific URL after submission based on user input within form fields.
-
-This feature is available in the Pro version of [Conditional Fields For Elementor](https://coolplugins.net/product/conditional-fields-for-elementor-form/?utm_source=cfef_plugin\&utm_medium=readme\&utm_campaign=get-pro\&utm_content=faqs-redirect).
-
-#### Can I enable/disable the form submit button conditionally?
-
-Yes, you can **conditionally hide/show or enable/disable the submit button of the Elementor form** based on input values from other fields.
-
-**For example**, if a user adds illegal words in a textarea, you can disable the submit button based on that condition. This feature requires activating the Pro version of [Conditional Fields For Elementor](https://coolplugins.net/product/conditional-fields-for-elementor-form/?utm_source=cfef_plugin\&utm_medium=readme\&utm_campaign=get-pro\&utm_content=faqs-button).
-
-\= How can I implement conditional logic in Elementor Free forms? =\
-Use Conditional Fields for Elementor Form to add conditional logic to Hello Plus forms in Elementor Free. This lets you show or hide form fields based on what the user selects without the need of Elementor Pro.
-
-\= How can I report security bugs? =\
-You can report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team help validate, triage, and handle any security vulnerabilities. [Report a security vulnerability.](https://patchstack.com/database/vdp/conditional-fields-for-elementor-form)
-
-\== Screenshots ==
-
-1. Conditionally show/hide Elementor form fields.
-2. Enable/disable the Elementor form submit button conditionally.
-3. How to add conditional logic to an Elementor form.
-4. Trigger conditions using multiple comparison operators.
-5. Conditionally redirect the form or send an email.
-
 \== Installation ==
 
 #### Quick Installation
 
-1. Navigate to **"wp-admin >> Plugins >> Add New"** on your WordPress website, search for **"Conditional Fields for Elementor Form"**, and install and activate this plugin developed by [Cool Plugins](https://coolplugins.net/?utm_source=cfef_plugin\&utm_medium=readme\&utm_campaign=homepage).
+1. Navigate to **"wp-admin >> Plugins >> Add New"** on your WordPress website, search for **"Conditional Fields for Elementor Form"**, and install and activate this plugin developed by Cool Plugins.
 2. Install **"Elementor PRO"** to access this plugin’s features, as the form widget is only available in the Elementor Pro version.
 3. Edit a page with Elementor and create a form. In the form fields, you’ll find a conditions tab where you can easily apply conditions.
 
@@ -114,7 +64,7 @@ You can report security bugs through the Patchstack Vulnerability Disclosure Pro
 
 **Step 1:**
 
-First, install **"Elementor Pro"**, then install **"**[**Conditional Fields for Elementor Form**](https://coolplugins.net/product/conditional-fields-for-elementor-form/?utm_source=cfef_plugin\&utm_medium=readme\&utm_campaign=get-pro\&utm_content=installation)**"**. Since it is an addon for Elementor Pro, Elementor Pro must be installed first.
+First, install **"Elementor Pro"**, then install **"Conditional Fields for Elementor Form"**. Since it is an addon for Elementor Pro, Elementor Pro must be installed first.
 
 **Step 2:**
 
@@ -135,8 +85,55 @@ Select the field you wish to hide or show based on specific conditions.
 
 Save or update the page and see the results and actions!
 
-— —————————————- —[**Get the Pro version of Conditional Fields for Elementor Form**](https://coolplugins.net/product/conditional-fields-for-elementor-form/?utm_source=cfef_plugin\&utm_medium=readme\&utm_campaign=get-pro\&utm_content=installation)\
-— —————————————- —
+\== Frequently Asked Questions ==
+
+#### = Which operators can I use to compare conditional field values? =
+
+You can trigger conditions on a field by comparing values with several operators:
+
+* **is equal (==), not equal (!=), greater than (>), less than (<)** - These are available in the free version.
+* The Pro version supports additional operators: **greater than or equal to (>=), less than or equal to (<=), contains, does not contain, empty, not empty, starts with, ends with**.
+
+#### = On which form fields can I apply conditions? =
+
+You can apply conditions on these fields of Elementor form: **text, textarea, email, tel, radio, select, file upload, HTML, and checkbox**.
+
+#### = Can I hide/show or disable/enable a form field conditionally? =
+
+In the free version, you can hide or show form fields based on conditional triggers. The Pro version also allows you to enable or disable fields conditionally.
+
+#### = How can I apply multiple conditions on Elementor form fields? =
+
+You can add multiple conditions to a form field and trigger them using **AND/OR logic**:
+
+* **AND** means all conditions must be met to trigger an action on that field.
+* **OR** logic, which triggers an action if any condition is met, is available in the Pro version of the [Conditional Fields For Elementor](https://coolplugins.net/product/conditional-fields-for-elementor-form/?utm_source=cfef_plugin\&utm_medium=readme\&utm_campaign=get-pro\&utm_content=faqs-and-or) plugin.
+
+#### = Can I conditionally redirect an Elementor form after submission? =
+
+You can conditionally redirect an Elementor form to a specific URL after submission based on user input within form fields.
+
+This feature is available in the Pro version of [Conditional Fields For Elementor](https://coolplugins.net/product/conditional-fields-for-elementor-form/?utm_source=cfef_plugin\&utm_medium=readme\&utm_campaign=get-pro\&utm_content=faqs-redirect).
+
+#### = Can I enable/disable the form submit button conditionally? =
+
+Yes, you can **conditionally hide/show or enable/disable the submit button of the Elementor form** based on input values from other fields.
+
+**For example**, if a user adds illegal words in a textarea, you can disable the submit button based on that condition. This feature requires activating the Pro version of [Conditional Fields For Elementor](https://coolplugins.net/product/conditional-fields-for-elementor-form/?utm_source=cfef_plugin\&utm_medium=readme\&utm_campaign=get-pro\&utm_content=faqs-button).
+
+\= How can I implement conditional logic in Elementor Free forms? =\
+Use Conditional Fields for Elementor Form to add conditional logic to Hello Plus forms in Elementor Free. This lets you show or hide form fields based on what the user selects without the need of Elementor Pro.
+
+\= How can I report security bugs? =\
+You can report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team help validate, triage, and handle any security vulnerabilities. [Report a security vulnerability.](https://patchstack.com/database/vdp/conditional-fields-for-elementor-form)
+
+\== Screenshots ==
+
+1. Conditionally show/hide Elementor form fields.
+2. Enable/disable the Elementor form submit button conditionally.
+3. How to add conditional logic to an Elementor form.
+4. Trigger conditions using multiple comparison operators.
+5. Conditionally redirect the form or send an email.
 
 \== Upgrade Notice ==
 
