@@ -4,7 +4,7 @@
 Contributors: narinder-singh, satindersingh, coolplugins\
 Tags: cryptocurrency,coinmarketcap, cryptocurrency price ticker, Crypto Widgets, Crypto Price Updates\
 Requires at least:6.0\
-Tested up to: 6.8.1\
+Tested up to: 6.8.1
 Requires PHP:7.2\
 Stable tag: 2.8.6\
 License: GPL3\
