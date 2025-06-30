@@ -109,7 +109,9 @@ Since this is a beta feature, detailed setup instructions are required. Please r
 \= How can I report security bugs? =\
 You can report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team help validate, triage and handle any security vulnerabilities.[Report a security vulnerability](https://patchstack.com/database/wordpress/plugin/automatic-translate-addon-for-translatepress/vdp)
 
-\== Changelog ==**Version 1.2.2 || 14/Apr/2025**
+\== Changelog ==
+
+**Version 1.2.2 || 14/Apr/2025**
 
 ```
 Added: New Dashboard.
