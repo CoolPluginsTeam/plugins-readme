@@ -9,7 +9,7 @@ Requires at least: 5.0\
 Tested up to: 6.8\
 Requires PHP: 5.6\
 Stable tag: 1.2.2
-License: GPLv2 or later\
+License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Auto-translate unlimited strings and characters using AI & Machine Translation tools without any external API Key!
