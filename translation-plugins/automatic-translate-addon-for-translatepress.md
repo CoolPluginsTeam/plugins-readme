@@ -78,7 +78,7 @@ Special thanks to [**TranslatePress – Translate Multilingual sites**](https://
 1. Install **AI Translation for TranslatePress** from the WordPress.org repository or upload the plugin-zip unzipped folder to the **/wp-content/plugins** directory.
 2. Activate the plugin through **Plugins >> Installed Plugin** menu in WordPress.
 3. Now you can translate any page content within a single click.
-4. If you want to use Google Translate Widget and Chrome built-in AI for automatic translation, then you need to purchase [premium plugin](https://coolplugins.net/product/automatic-translate-addon-for-translatepress-pro/?utm_source=tpa_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=buy_pro).
+4. If you want to use Google Translate Widget and Chrome built-in AI for automatic translation, then you need to purchase [premium plugin](https://coolplugins.net/product/automatic-translate-addon-for-translatepress-pro/?utm_source=tpa_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=installation).
 
 \== Frequently Asked Questions ==
 
