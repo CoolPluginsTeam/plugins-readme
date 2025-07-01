@@ -72,7 +72,7 @@ Loco Translate is primarily a manual translation tool for translating WordPress 
 
 #### Check out our other advanced Automatic Translate Addons
 
-* [**AI Translation for Polylang**](https://coolplugins.net/product/automatic-translations-for-polylang/?utm_source=atlt_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=atfp_check_out) duplicates your page or post titles, content, images, galleries, or meta fields, and automatically translates them into the selected language. Whether you’re using **Elementor** or **Gutenberg**, this addon makes the translation process easier.
+* [**AutoPoly - AI Translation For Polylang**](https://coolplugins.net/product/automatic-translations-for-polylang/?utm_source=atlt_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=atfp_check_out) duplicates your page or post titles, content, images, galleries, or meta fields, and automatically translates them into the selected language. Whether you’re using **Elementor** or **Gutenberg**, this addon makes the translation process easier.
 * [**AI Translation for TranslatePress**](https://coolplugins.net/product/automatic-translate-addon-for-translatepress-pro/?utm_source=atlt_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=tpa_check_out) is a powerful addon that enhances the functionality of the TranslatePress plugin. This addon uses advanced translation services, like Google Translate, Yandex, and Chrome AI translator, to provide accurate and instant translations for your web pages automatically.
 
 #### Special THANKS!
@@ -91,7 +91,7 @@ All automatic translations are powered by third-party auto-translate providers(G
 \== Frequently Asked Questions ==
 
 \= Can this plugin automatically translate page content? =\
-No, this plugin only translates plugin and themes strings automatically. To translate page content automatically, you can try the [AI Translation for TranslatePress](https://coolplugins.net/product/automatic-translate-addon-for-translatepress-pro/?utm_source=atlt_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=tpa_faq) Or [AI Translation for Polylang](https://coolplugins.net/product/automatic-translations-for-polylang/?utm_source=atlt_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=atfp_faq).
+No, this plugin only translates plugin and themes strings automatically. To translate page content automatically, you can try the [AI Translation for TranslatePress](https://coolplugins.net/product/automatic-translate-addon-for-translatepress-pro/?utm_source=atlt_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=tpa_faq) Or [AutoPoly - AI Translation For Polylang](https://coolplugins.net/product/automatic-translations-for-polylang/?utm_source=atlt_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=atfp_faq).
 
 \= Are you using any language translation API? =
 
