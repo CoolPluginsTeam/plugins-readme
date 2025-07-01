@@ -1,4 +1,5 @@
-# Automatic Translate Addon for TranslatePress
+# Auto Translate Addon for TranslatePress
+
 
 \=== AI Translation for TranslatePress ===
 
