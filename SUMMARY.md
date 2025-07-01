@@ -11,6 +11,7 @@
   * [AutoPoly - AI Translation For Polylang](translation-plugins/automatic-translations-for-polylang.md)
   * [Automatic Translate Addon for Loco Translate](translation-plugins/automatic-translator-addon-for-loco-translate.md)
   * [Duplicate Content Addon for Polylang](translation-plugins/duplicate-content-addon-for-polylang.md)
+  * [Auto Translate Addon for TranslatePress](translation-plugins/auto-translate-addon-for-translatepress.md)
 * [Timeline Plugins](timeline-plugins/README.md)
   * [Cool Timeline](timeline-plugins/cool-timeline.md)
   * [Timeline Module for Divi](timeline-plugins/timeline-module-for-divi.md)
