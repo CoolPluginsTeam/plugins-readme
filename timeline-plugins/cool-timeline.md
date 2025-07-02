@@ -139,6 +139,9 @@ Yes, Cool Timeline supports RTL languages, making it suitable for websites with 
 \= Where can I find the Cool Timeline plugin on GitHub? =\
 You can find the Cool Timeline plugin on its official GitHub repository at [Github](https://github.com/narinder9/cool-timeline)
 
+\= How can I report security bugs? =\
+You can report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team help validate, triage and handle any security vulnerabilities. [Report a security vulnerability.](https://patchstack.com/database/vdp/event-page-templates-addon-for-the-events-calendar)
+
 \== Screenshots ==
 
 1. WordPress Timeline plugin frontend view.
