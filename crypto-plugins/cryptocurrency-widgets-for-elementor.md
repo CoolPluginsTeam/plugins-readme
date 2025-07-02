@@ -16,51 +16,35 @@ Easily display cryptocurrency prices and accept crypto donations on your Element
 
 **Cryptocurrency Widgets For Elementor** is a powerful addon for Elementor that lets you easily create cryptocurrency coin list shortcodes, [**price widgets**](https://cryptocurrencyplugins.com/demo/cryptocurrency-widgets-for-elementor/?utm_source=ccew_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=price_widget_demo)**,** and [**more**](https://cryptocurrencyplugins.com/demo/cryptocurrency-donation-widgets-for-elementor/?utm_source=ccew_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=donation_widget_demo) for over 250 coins, including Bitcoin, Ethereum, Binance Coin, and Cardano.&#x20;
 
+https://www.youtube.com/watch?v=E8EU9CyvmDk
+
 Display real-time market data using customizable layouts directly on your Elementor website.
+
+https://www.youtube.com/watch?v=gFzCEBERiwc
 
 ### Key Features
 
 * **Real-time Crypto Data:** Fetch live data for over 200 cryptocurrencies, including Bitcoin, Ethereum, Ripple, and many more.
-* **API Type Selection**
+* **API Source:** Data is sourced securely from trusted APIs; CoinGecko, CoinMarketCap and CoinPaprika to ensure accuracy.
+* **Customizable Widgets:** You can use different widgets to display crypto data on your website.
+  * **Coins Price Card:** Add real-time cryptocurrency price cards to your Elementor website, allowing your readers to stay updated with live data.
+  * **Coins Price Label:** Display coin price labels inside your page content using different styles.
+  * **Coins List:** Display a detailed list of cryptocurrencies showing live data such as coin prices, market cap, trading volume, and percentage changes.
+  * **Donation Box Widget** Easily add a crypto donation widget to your site. You can also add various wallet options such as Bitcoin and Metamask, providing flexibility for donations.
+* **24-Hour Percentage Changes:** Show cryptocurrency price changes over the last 24 hours, allowing users to see quick market trends.
+* **Top Losers and Gainers:** Highlight the biggest price drops (losers) and largest increases (gainers) over a selected time period.
+* **Currency Conversion:** Allows users to convert between cryptocurrencies and fiat currencies directly on your site.
+* **Compatibility with WordPress Themes:** This plugin is compatible with all WordPress themes.
+* **Fully Responsive:** Ensures your site looks visually appealing across all devices.
 
-https://www.youtube.com/watch?v=E8EU9CyvmDk
+#### Check Our Other Cryptocurrency Plugins
 
-https://www.youtube.com/watch?v=gFzCEBERiwc
+* [**Coins MarketCap Plugin**](https://cryptocurrencyplugins.com/wordpress-plugin/coins-marketcap/?utm_source=ccw_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=cmc_view_plugin)**:** Effortlessly integrate real-time market data for over 2,500 coins, including _prices, market caps,_ and _trading volumes_. The plugin supports multiple fiat currencies and is **Yoast SEO** friendly, ensuring each coin has unique meta tags for better search engine visibility.
 
-There are four layouts in this widget, where you can show your coins in different styles.
+> Get a [complete website like coinmarketcap.com](https://cryptocurrencyplugins.com/coinmarketcap-clone-website/?utm_source=ccw_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=cmc_clone_site) that includes our all crypto plugins. Our developer will set it up for you.
 
-1. **Coins Price Card**\
-   Show coins in a beautiful card layout with multiple dynamic attribute feature, where you can easily customize the layout of your card.\
-   You can hide show coin symbol, high/low,1h changes, 24h changes,7d changes, 30d changes, rank, and market cap from these settings,\
-   you can also enable disable number formatting from these settings.
-2. **Coins Price Label**\
-   Display coin price labels inside your page content using this style. You can hide show coin 24h changes from these settings.
-3. **Coins List**\
-   In this layout, you can show the Top coins from the given list or you can add your favorite custom coins by selecting the custom option from the coin list.\
-   In this layout, there's an option to show 7-day data in chart format, by default it's enabled in this layout but you can enable or disable this chart from the show hide graph option. You can hide/show coin 24h changes and graphs from these settings.
-4.  **Top gainer/loser**\
-    In the top gainer loser list you can display 24-hour changes of coins from the 250 coins list, in gainer you will see the top most increased coin value from the last 24 hours.
-
-    In the loser list, it will display the top most decreased coins value from the last 24 hours. You can hide/show coin 24h changes from these settings.
-
-**Integrated Cryptocurrency Donations Widget**
-
-Now accept the top 50+ major cryptocurrency donations inside your Elementor Pages using these free cryptocurrency donation Widgets.
-
-1. Integrates Hassle free Tip with [**MetaMask button**](https://cryptocurrencyplugins.com/demo/cryptocurrency-donation-widgets-for-elementor/?utm_source=ccew_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=ree-donation-widget-demo).
-2. Convert your coin payment address into a QR code.
-3. Supports top 50+ crypto coins – Bitcoin, Ethereum, Bitcoin Cash, Litecoin, Cardano & much more…
-4. Elegant design for the cryptocurrency donation box.
-5. Accept more donations with the help of trusted source MetaMask
-6. Responsive / Mobile friendly cryptocurrency donation plugin.
-
-#### Check Our Other Crypto Widgets Plugins Demos:-
-
-1. **Cryptocurrency Widgets \[FREE]** – [Cryptocurrency Widgets Free Demo](https://cryptocurrencyplugins.com/demo/cryptocurrency-widgets-pro/?utm_source=ccew_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=ccw_free_demo)
-2. **Cryptocurrency Widgets Pro \[PAID]** – [Cryptocurrency Widgets Pro Demo](https://cryptocurrencyplugins.com/demo/cryptocurrency-widgets-pro/?utm_source=ccew_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=ccw_pro_demo) (It extends the free version of **Cryptocurrency Widgets** plugin.)
-3. **Coin Market Cap & Prices Plugin \[PAID]** – [Coin Market Cap Plugin Demo](https://cryptocurrencyplugins.com/demo/coins-marketcap/?utm_source=ccew_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=cmc_view_demo) (Our **premium crypto plugin** instantly creates a website similar to coinmarketcap.com)
-4. **Cryptocurrency Exchanges List Pro Plugin \[PAID]** – [Crypto Exchanges List Plugin Demo](https://cryptocurrencyplugins.com/demo/cryptocurrency-exchanges-list-pro/?utm_source=ccew_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=celp_view_demo) (It is our other **premium crypto plugin** that auto-generates 200+ SEO-friendly pages for crypto exchanges with a lot of information.)
-5. **Pay With MetaMask For WooCommerce – Cryptocurrency Payment Gateway \[Free]** – [Pay With MetaMask For WooCommerce – Cryptocurrency Payment Gateway ](https://wordpress.org/plugins/cryptocurrency-payments-using-metamask-for-woocommerce/)Let your customers pay with cryptocurrency – USDT, ETH, BNB, or BUSD inside your WooCommerce store via the MataMask extension for the WooCommerce store. You will receive crypto payments easily inside your store, cryptocurrency will be transferred immediately to your personal crypto wallet address.
+* [**Cryptocurrency Exchanges List Pro**](https://cryptocurrencyplugins.com/wordpress-plugin/cryptocurrency-exchanges-list-pro/?utm_source=ccw_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=celp_view_plugin)**:** Display real-time data from over 250 cryptocurrency exchanges on your website. Create automatic exchange pages showing trading pairs and volumes. Easily enable or disable exchanges as needed.
+* [**Pay With MetaMask**](https://cryptocurrencyplugins.com/wordpress-plugin/pay-with-metamask-for-woocommerce-pro/?utm_source=ccw_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=cpmw_view_plugin)**:** If you run a WooCommerce store and want to accept cryptocurrency payments at checkout, our WooCommerce Crypto Payments plugin makes it simple. Customers can pay directly with crypto using Web3 wallets such as MetaMask, WalletConnect, and more. You can [test crypto payment integration in WooCommerce](https://paywithcryptocurrency.net/wordpress-plugin/test-cryptocurrency-payment/?utm_source=ccw_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=cpmw_view_demo) by purchasing a dummy product on our demo site using [faucet tokens](https://paywithcryptocurrency.net/plugin-features/test-networks-and-tokens/?utm_source=ccw_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=cpmw_faucet).
 
 #### Third Party API & License Information
 
@@ -80,31 +64,43 @@ Now accept the top 50+ major cryptocurrency donations inside your Elementor Page
 
 **Install From WordPress Admin Panel**
 
-Open the WordPress admin panel and go to Plugins >> Add New and Search **“Cryptocurrency Widgets For Elementor”** at here, You will find our plugin **“by Cool Plugins”**. Click on the Install button in front of this and then activate the plugin.
+* Open the WordPress admin panel and go to Plugins >> Add New.
+* Search **“Cryptocurrency Widgets For Elementor”**.&#x20;
+* Click install & activate the plugin.
 
-**How To Create Crypto Top gainer/losers list Widget?**
+**How To Create a Crypto Top gainer/losers list Widget?**
 
-After installation & plugin activation, create a page and edit the page with elementor, in the elementor search bar type Cryptocurrency Widget. From the search result drag Cryptocurrency Widget to your desired location on the page. By default it will add a Card layout, you change the layout from the widget settings panel. Also can style the individual widget from the style tab colors options according to your requirement.
+* Create a page and edit the page with elementor.
+* From the widget section search Cryptocurrency Widget.&#x20;
+* From the results, drag the **Cryptocurrency Widget** onto your page where you’d like it to appear.
+* By default, the widget will display in the **Card layout**.
+* From widget settings panel under the **Layout** dropdown, select the style you prefer (Card, List, Label, etc.).
+* From the **Style** tab adjust colors, typography, spacing, and other design options according to your website.
+
+
 
 \== Frequently Asked Questions ==\
+\
 \= Can I display real-time live price changes? =
 
 We are using CoinGecko, CoinMarketCap and Coinpaprika API in our free version of the crypto price widget, it can show only the current price but doesn’t support real-time price updates.
 
 \= Can I choose my local currency other than USD($)? =
 
-Yes, you can display crypto coins' prices in your local currency. we have integrated 32 fiat currencies:- **USD, GBP, EUR, INR, JPY, CNY, ILS, KRW, RUB, DKK, PLN, AUD, BRL, MXN, SEK, CAD, HKD, MYR, SGD, CHF, HUF, NOK, THB, CLP, IDR, NZD, TRY, PHP, TWD, CZK, PKR, ZAR**.
+Yes, you can display crypto coins' prices in your local currency. We have integrated 32 fiat currencies:- **USD, GBP, EUR, INR, JPY, CNY, ILS, KRW, RUB, DKK, PLN, AUD, BRL, MXN, SEK, CAD, HKD, MYR, SGD, CHF, HUF, NOK, THB, CLP, IDR, NZD, TRY, PHP, TWD, CZK, PKR, ZAR**.
 
 \= Are you using any third-party APIs? =
 
-YES, we are using coingecko.com APIs in our free version. So plugin functionality totally depends on third-party APIs. (We can’t provide any support if there is any downtime in third-party APIs)
+Yes, we are using coingecko.com APIs in our free version. So, plugin functionality totally depends on third-party APIs.&#x20;
+
+(We can’t provide any support if there is any downtime in third-party APIs)
 
 \= Do you have any support email for extra questions? =
 
 Yes, you can contact us anytime at **contact@coolplugins.net**. We strive to respond to all inquiries within 24 hours.
 
 \= Can I customize the widget layout? =\
-Yes, the plugin offers four different layouts: Coins Price Card, Coins Price Label, Coins List, and Top Gainers/Losers. You can also customize elements like symbol display, market cap, price changes, and more in each layout.
+Yes, the plugin offers different layouts: Coins Price Card, Coins Price Label, Coins List, and Donation box widget. You can also customize elements like symbol display, market cap, price changes, and more in each layout.
 
 \= Does the plugin support custom styling? =\
 Yes, you can further customize the appearance of the widgets through Elementor's styling options. This allows you to adjust the colors, fonts, and layout to match your website design.
@@ -113,7 +109,7 @@ Yes, you can further customize the appearance of the widgets through Elementor's
 Yes, depending on the layout, you can display price changes over different time ranges, such as 1 hour, 24 hours, 7 days, or 30 days.
 
 \= Is the plugin compatible with all Elementor themes? =\
-Yes, the plugin is fully compatible with any theme that supports Elementor. It seamlessly integrates with your existing theme design and functionality.
+Yes, the plugin is fully compatible with any theme that supports Elementor.&#x20;
 
 \= Does this plugin support multi-currency or fiat conversion? =\
 Currently, the plugin focuses on cryptocurrency prices and does not include fiat currency conversion. However, it pulls real-time market data for accurate cryptocurrency pricing.
@@ -135,9 +131,6 @@ Yes, the donation feature is secure, especially with MetaMask integration, which
 
 \= Will the plugin slow down my website? =\
 No, the plugin is optimized for performance and designed to work efficiently with Elementor. It fetches only necessary data, minimizing the impact on your website's speed.
-
-\= Does this plugin work with caching plugins? =\
-Yes, the plugin is compatible with most caching plugins. However, to ensure real-time updates of cryptocurrency data, make sure dynamic content is excluded from caching.
 
 \= How can I report security bugs? =\
 You can report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team help validate, triage and handle any security vulnerabilities. [Report a security vulnerability.](https://patchstack.com/database/vdp/cryptocurrency-widgets-for-elementor)
