@@ -14,19 +14,18 @@ Easily display cryptocurrency prices and accept crypto donations on your Element
 
 \== Description ==
 
-**Cryptocurrency Widgets For Elementor** lets you easily create cryptocurrency price widgets and coin list shortcodes for over 250 coins, including Bitcoin, Ethereum, Binance Coin, and Cardano. Display real-time market data in elegant, customizable layouts directly on your Elementor-powered website.
+**Cryptocurrency Widgets For Elementor** is a powerful addon for Elementor that lets you easily create cryptocurrency coin list shortcodes, [**price widgets**](https://cryptocurrencyplugins.com/demo/cryptocurrency-widgets-for-elementor/?utm_source=ccew_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=price_widget_demo)**,** and [**more**](https://cryptocurrencyplugins.com/demo/cryptocurrency-donation-widgets-for-elementor/?utm_source=ccew_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=donation_widget_demo) for over 250 coins, including Bitcoin, Ethereum, Binance Coin, and Cardano.&#x20;
 
-[View Price Widgets Demo](https://cryptocurrencyplugins.com/demo/cryptocurrency-widgets-for-elementor/?utm_source=ccew_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=price_widget_demo)
+Display real-time market data using customizable layouts directly on your Elementor website.
 
-[View Donation Widgets Demo](https://cryptocurrencyplugins.com/demo/cryptocurrency-donation-widgets-for-elementor/?utm_source=ccew_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=donation_widget_demo)
+### Key Features
 
-[Check other Advance Widgets Demo](https://cryptocurrencyplugins.com/demo/cryptocurrency-widgets-pro/?utm_source=ccew_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=ccw_advance_widget)
+* **Real-time Crypto Data:** Fetch live data for over 200 cryptocurrencies, including Bitcoin, Ethereum, Ripple, and many more.
+* **API Type Selection**
 
 https://www.youtube.com/watch?v=E8EU9CyvmDk
 
 https://www.youtube.com/watch?v=gFzCEBERiwc
-
-Create crypto widgets for 250+ coins that come with this Elementor addon and Use this advanced plugin in simple steps on Elementor.
 
 There are four layouts in this widget, where you can show your coins in different styles.
 

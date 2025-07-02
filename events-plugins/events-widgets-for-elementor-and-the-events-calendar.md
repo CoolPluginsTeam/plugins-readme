@@ -100,7 +100,7 @@ You can report security bugs through the Patchstack Vulnerability Disclosure Pro
 
 \== Changelog ==
 
-\= Version 1.6.17 | 10/06/2025
+\= Version 1.6.17 | 10/06/2025 =&#x20;
 
 * Added: User opt-in option in plugin.
 * Improved: Minor code improvements.
@@ -108,67 +108,67 @@ You can report security bugs through the Patchstack Vulnerability Disclosure Pro
 * Tested upto: Elementor version 3.29.2
 * Tested upto: The Events Calendar version 6.13.2.1
 
-\= Version 1.6.16 | 02/05/2025
+\= Version 1.6.16 | 02/05/2025 =
 
 * Added: Disable Schema markup setting.
 * Tested upto: WordPress version 6.8.1
 * Tested upto: Elementor version 3.28.4
 * Tested upto: The Events Calendar version 6.11.2.1
 
-\= Version 1.6.15 | 22/03/2025
+\= Version 1.6.15 | 22/03/2025 =
 
 * Fixed: Issue with event loading on the calendar widget.
 * Tested upto: WordPress version 6.7.2
 * Tested upto: Elementor version 3.28.0 & Elementor Pro version 3.28.0
 * Tested upto: The Events Calendar version 6.10.2
 
-\= Version 1.6.14 | 28/01/2025
+\= Version 1.6.14 | 28/01/2025 =
 
 * Tested upto: WordPress version 6.7.1
 * Tested upto: Elementor version 3.27.2 & Elementor Pro version 3.27.1
 * Tested upto: The Events Calendar version 6.9.1
 
-\= Version 1.6.13 | 20/12/2024
+\= Version 1.6.13 | 20/12/2024 =
 
 * Fixed: All Event setting rendering issue.
 * Tested upto: WordPress version 6.7.1
 * Tested upto: Elementor version 3.26.2 & Elementor Pro version 3.26.0
 * Tested upto: The Events Calendar version 6.9.0
 
-\= Version 1.6.12 | 03/12/2024
+\= Version 1.6.12 | 03/12/2024 =
 
 * Fixed: Load textdomain issue.
 * Tested upto: WordPress version 6.7.1
 * Tested upto: Elementor version 3.25.10 & Elementor Pro version 3.24.4
 * Tested upto: The Events Calendar version 6.8.2.1
 
-\= Version 1.6.11 | 17/10/2024
+\= Version 1.6.11 | 17/10/2024 =
 
 * Fixed: Handler undefined issue with Elementor Pro.
 * Tested upto: WordPress version 6.6.2
 * Tested upto: Elementor version 3.24.7 & Elementor Pro version 3.24.4
 * Tested upto: The Events Calendar version 6.7.0
 
-\= Version 1.6.10 | 24/09/2024
+\= Version 1.6.10 | 24/09/2024 =
 
 * Fixed: Fix security issues.
 * Tested upto: WordPress version 6.6.2
 * Tested upto: Elementor version 3.24.4
 * Tested upto: The Events Calendar version 6.6.4.2
 
-\= Version 1.6.9 | 23/07/2024
+\= Version 1.6.9 | 23/07/2024 =
 
 * Tested upto: WordPress version 6.6
 * Tested upto: Elementor version 3.24.0
 
-\= Version 1.6.8 | 03/05/2024
+\= Version 1.6.8 | 03/05/2024 =
 
 * Fixed: Structure data error saying location missing when tested with Rich Result test.
 * Tested upto: WordPress version 6.5.2
 * Tested upto: Elementor version 3.21.4
 * Tested upto: The Events Calendar version 6.4.0
 
-\= Version 1.6.7 | 06/04/2024
+\= Version 1.6.7 | 06/04/2024 =
 
 * Tested upto: WordPress version 6.5
 * Tested upto: Elementor version 3.20.3
