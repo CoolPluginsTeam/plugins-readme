@@ -8,8 +8,7 @@ Requires at least:5.0\
 Tested up to:6.8.1\
 Requires PHP:7.2\
 Stable tag:1.7.8\
-License:GPLv2 or later
-License URI:http://www.gnu.org/licenses/gpl-2.0.html
+License:GPLv2 or later License URI:http://www.gnu.org/licenses/gpl-2.0.html
 
 Design stunning The Events Calendar single event pages with Elementor using pre-built templates.
 
@@ -19,18 +18,18 @@ Design stunning The Events Calendar single event pages with Elementor using pre-
 
 {% embed url="https://youtu.be/50FBrcqoB-M?si=UHBpoT63OLRa8uJz" %}
 
-[**Event Single Page Builder**](https://eventscalendaraddons.com/plugin/event-single-page-builder-pro/?utm_source=epta_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=top_description) is a powerful addon for The Events Calendar Plugin that allows you to design a single event page.&#x20;
+[**Event Single Page Builder**](https://eventscalendaraddons.com/plugin/event-single-page-builder-pro/?utm_source=epta_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=top_description) is a powerful addon for The Events Calendar Plugin that allows you to design a single event page.
 
 Instead of relying on the default event layout offered by The Events Calendar, this addon gives multiple layout options, allowing you to design event pages according to your website.
 
 ### Key Features
 
 * **Display Events:** Choose where you want the single event template to be applied. You can select to display it on all events or specific ones according to your preferences.
-* **Event Templates:** Choose a pre-built template layout for your single event page.&#x20;
+* **Event Templates:** Choose a pre-built template layout for your single event page.
 * **Date Format:** Easily customize how dates should be displayed by choosing from various formats.
 * **Events Page Slug:** Enter the URL slug for your all-events listing page. This helps in linking back to your events from individual event pages.
 * **Primary Color:** Set the main background color, typically used for headings or highlighted sections on the single event layout.
-* **Custom CSS:** Add your own CSS code to customize the appearance of your single event page.&#x20;
+* **Custom CSS:** Add your own CSS code to customize the appearance of your single event page.
 
 🔗 [**Check free version demos**](https://eventscalendaraddons.com/event/boston-biggest-marathon-run/?utm_source=epta_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=check_free_demos)
 
@@ -74,11 +73,23 @@ No, this addon only provides a pre-designed template, and you can adjust colors 
 \= What does The Events Calendar Single Event Page Template plugin do? =\
 This plugin allows you to edit and design a single event page template using the Event Single Page Builder.
 
+\= Do I need coding skills to use the Event Single Page Builder? =\
+No, you don’t need any coding skills. You can easily create and customize event templates without any HTML, CSS, or technical knowledge. Just follow our [documentation ](https://eventscalendaraddons.com/docs/events-single-page-builder-pro/)to get started quickly!
+
 \= Can I customize the design of a single event page? =\
 Yes, you can showcase your single event page and customize the colors in the Event Page Template settings.
 
 \= Can I use this plugin with Elementor? =\
 Yes, the pro version of the plugin provides support for Elementor, allowing you to design the event single page template in Elementor.
+
+\= How do I create a single event template using Elementor? =\
+To create elementor single event template, go to Events Addons → Event Page Templates, click Add New, name it, and choose where and for which events it should appear. Select a pre-made layout or create one using custom widgets according to your preference.
+
+\= Is the Event Single Page Builder responsive? =\
+Absolutely. Templates created using the Event Single Page Builder are fully mobile-responsive. Your event layouts automatically adapt to all screen sizes—whether it’s mobile, tablet, or desktop.
+
+\= How can I report security bugs? =\
+You can report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team help validate, triage and handle any security vulnerabilities. [Report a security vulnerability.](https://patchstack.com/database/vdp/event-page-templates-addon-for-the-events-calendar)
 
 \== Screenshots ==
 
