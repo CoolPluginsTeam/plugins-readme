@@ -6,8 +6,7 @@ Tags: timeline, history, roadmap, horizontal timeline, vertical timeline\
 Donate link: https://cooltimeline.com\
 Requires at least:5.0\
 Tested up to: 6.8\
-Stable tag:3.0.1
-Requires PHP: 5.6\
+Stable tag:3.0.1 Requires PHP: 5.6\
 License: GPLv2 or later\
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -55,7 +54,7 @@ Using Cool Timeline, you can create timeline stories in two ways:
 
 Upgrading to the [**Cool Timeline Pro**](https://cooltimeline.com/plugin/cool-timeline-pro/?utm_source=ctl_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=cool_timeline_pro#pricing) plugin unlocks the advanced features like access to multiple layouts, including Horizontal layout, Category-Based Timelines, Ajax Load More, Multimedia ( images, videos & slideshow), and more.
 
-[🔗**Check Pro Version Demos**](https://cooltimeline.com/demo/cool-timeline-pro/?utm_source=ctl_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=view_pro_demos)
+[🔗**Check Pro Version Demos**](https://cooltimeline.com/demo/cool-timeline-pro/?utm_source=ctl_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=view_pro_demos) **|** [**Get Pro**](https://cooltimeline.com/plugin/cool-timeline-pro/?utm_source=ctl_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=cool_timeline_pro#pricing)
 
 ### Where can you use the Cool Timeline?
 
