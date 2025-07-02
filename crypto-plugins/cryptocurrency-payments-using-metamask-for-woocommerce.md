@@ -40,7 +40,7 @@ https://www.youtube.com/watch?v=yWfZnjkhhhg
 * **Token‑Based Discounts:** Encourage adoption of your preferred tokens by offering automatic discounts when customers use specific tokens at checkout. Ideal for promoting community coins or incentivizing certain payment methods.
 * **Crypto‑Wallet Login (Web3 Authentication):** Let customers log in or register using their crypto wallet. With Web3 login, users authenticate via MetaMask or WalletConnect, no password required. This simplifies the login experience and enhances privacy and security.
 
-[**View Free Version Demo**](https://paywithcryptocurrency.net/cart/?add-to-cart=2996\&utm_source=cpmw_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=check-demo)
+[**View Free Version Demo**](https://paywithcryptocurrency.net/cart/?utm_source=cpmw_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=view_free_demo)
 
 #### Pro Features - MetaMask Extension For WooCommerce
 
