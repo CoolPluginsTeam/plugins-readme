@@ -8,8 +8,7 @@ Requires at least:5.0\
 Tested up to:6.8.1\
 Requires PHP:7.2\
 Stable tag:1.6.8\
-License:GPLv2 or later
-License URI:http://www.gnu.org/licenses/gpl-2.0.html
+License:GPLv2 or later License URI:http://www.gnu.org/licenses/gpl-2.0.html
 
 Highlight your company’s history, milestones, and key events directly inside Elementor using stunning **vertical** and **horizontal timelines**.
 
@@ -43,7 +42,7 @@ Whether you’re showcasing a company history, project roadmap, personal journey
 
 Upgrading to the [**Timeline Widget Pro**](https://cooltimeline.com/plugin/elementor-timeline-widget-pro/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=timeline_widget_pro) unlocks more advanced features like multiple layout options (vertical, horizontal, compact), preset styles, and advanced design settings. You can also add videos and slideshows instead of simple images to create interactive timeline stories.
 
-🔗[ **Check Pro Version Demos**](https://cooltimeline.com/demo/elementor-timeline-widget/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=view_pro_demo)
+🔗[ **Check Pro Version Demos**](https://cooltimeline.com/demo/elementor-timeline-widget/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=view_pro_demo) **|** [**Get Pro**](https://cooltimeline.com/plugin/elementor-timeline-widget-pro/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=timeline_widget_pro)
 
 #### Check our other plugins demos
 
