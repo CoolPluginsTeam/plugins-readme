@@ -19,7 +19,7 @@ Use MetaMask cryptocurrency payment gateway for WooCommerce store and let custom
 
 [https://youtu.be/H6pqQ9XoTgc](https://youtu.be/H6pqQ9XoTgc)
 
-**Pay With MetaMask For WooCommerce** is a powerful Web3 payment gateway plugin that allows your WooCommerce store to accept cryptocurrency payments directly through MetaMask, WalletConnect, Binance Wallet, and other Web3 wallets.
+[**Pay With MetaMask For WooCommerce**](https://cryptocurrencyplugins.com/wordpress-plugin/pay-with-metamask-for-woocommerce-pro/?utm_source=cpmw_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=top_description) is a powerful Web3 payment gateway plugin that allows your WooCommerce store to accept cryptocurrency payments directly through MetaMask, WalletConnect, Binance Wallet, and other Web3 wallets.
 
 With this plugin, your customers can easily pay using popular crypto wallets and supported tokens on major blockchain networks like Ethereum, Binance Smart Chain, Polygon, and Avalanche.
 
@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=yWfZnjkhhhg
 * Multichain support at check out page.
 * Login With Crypto Wallet.
 
-[**Upgrade to the Pro version**](https://paywithcryptocurrency.net/wordpress-plugin/pay-with-metamask-for-woocommerce-pro/?utm_source=cpmw_plugin\&utm_medium=readme\&utm_campaign=get-pro\&utm_content=buy-pro)
+[**Upgrade to the Pro version**](https://cryptocurrencyplugins.com/wordpress-plugin/pay-with-metamask-for-woocommerce-pro/?utm_source=cpmw_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=pro_version)
 
 #### Supported Networks
 
@@ -61,7 +61,7 @@ https://www.youtube.com/watch?v=yWfZnjkhhhg
 2: GoerliETH Network (Testnet)\
 3: Binance Smart Chain (Mainnet)\
 4: Binance Smart Chain (Testnet)\
-5: Any Custom Network [(Pro only)](https://paywithcryptocurrency.net/wordpress-plugin/pay-with-metamask-for-woocommerce-pro/?utm_source=cpmw_plugin\&utm_medium=readme\&utm_campaign=get-pro\&utm_content=features)
+5: Any Custom Network [(Pro only)](https://cryptocurrencyplugins.com/wordpress-plugin/pay-with-metamask-for-woocommerce-pro/?utm_source=cpmw_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=custom_network)
 
 You may now contribute to the plugin on GitHub:[https://github.com/narinder9/pay-with-metamask-for-woocommerce](https://github.com/narinder9/pay-with-metamask-for-woocommerce)
 
