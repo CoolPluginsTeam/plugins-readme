@@ -76,14 +76,26 @@ Upgrading to [**Events Widget Pro**](https://eventscalendaraddons.com/plugin/eve
 \= How does it work? = \
 This plugin works as an addon for **Elementor** & **The Events Calendar** plugin. First, you need to make sure that you have installed and activated "The Events Calendar" and "Elementor" plugins. After installing this, drag-and-drop the "Events Widget" to your Elementor page, and it will show a cool events list.
 
+\= What plugins are required to use Events Widgets Pro? =
+
+You need to install and activate Elementor (Free) and The Events Calendar (Free) plugins to use Events Widgets Pro.
+
 \= Why should I purchase the PRO version? = \
 The Pro version will provide extra design options and pre-made layouts.
 
 \= Can I filter events by category? = \
 Yes, this addon supports event category filter settings, allowing you to display events from specific categories on your website.
 
+\= How to display events in Elementor? =
+
+To display events in Elementor, activate Elementor and the Events Widgets Pro plugin. Then, go to Pages or Posts, click “Add New,” and open Elementor. Search for the “Events Loop” widget, drag it into your page section, and it will display your events layout.
+
 \= Can I customize the date format for events? = \
 Yes, this addon supports custom event date format settings, allowing you to display the date and time in a format that suits your audience.
+
+\= Can I sort the events? =
+
+Yes, the Events Widgets Pro lets you sort events in different orders (for example, showing the soonest events first).
 
 \= Can I create a custom loop or design with Events Widgets Pro? = \
 Yes, you can design custom loop items with Elementor, but for that you need to upgrade to the Events Widgets Pro.
