@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=uL3ToWGncbM
 
 Whether you want to display your events in a **list, grid, timeline, or minimal list layout** , this plugin makes it simple by adding a shortcode. It’s a time-saving tool that allows you to **highlight key events** in a visually appealing way without needing advanced coding skills.
 
-[Check Plugin Demos](https://eventscalendaraddons.com/demos/events-shortcodes-pro/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=check_demos) | [**Get Pro**](https://eventscalendaraddons.com/plugin/events-shortcodes-pro/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=events_shortcode_pro#pricing)
+[Check Plugin Demos](https://eventscalendaraddons.com/demos/events-shortcodes-pro/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=check_demos) | [**Get Pro**](https://eventscalendaraddons.com/plugin/events-shortcodes-pro/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=get_pro#pricing)
 
 **Free Version Demos**
 
