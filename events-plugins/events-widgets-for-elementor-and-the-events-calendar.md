@@ -40,6 +40,8 @@ The Events Calendar is great for managing events, but its default layout option 
 
 Upgrading to [**Events Widget Pro**](https://eventscalendaraddons.com/plugin/events-widgets-pro/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=events_widget_pro#pricing) unlocks the advanced features, like you can design your own event loop items using different loop widgets, making it easy to show events the way you want. Display your events in a **list, grid,** or **carousel** layout according to your website.
 
+[**Get Pro!**](https://eventscalendaraddons.com/plugin/events-widgets-pro/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=get_pro#pricing)
+
 **Pro Version Demos**
 
 [Events Grid](https://eventscalendaraddons.com/the-events-calendar-grid-widget-for-elementor/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=events_grid)\
