@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=gFzCEBERiwc
 * **Customizable Widgets:** You can use different widgets to display crypto data on your website.
   * **Coins Price Card:** Add real-time cryptocurrency price cards to your Elementor website, allowing your readers to stay updated with live data.
   * **Coins Price Label:** Display coin price labels inside your page content.
-  * **Coins List:** Display a detailed list of cryptocurrencies showing live data such as coin prices, market cap, trading volume, and percentage changes.
+  * **Coins List:** Display a detailed list of cryptocurrencies showing live data such as coin prices, market cap, and percentage changes.
   * **Coins Table Widget:** Create an organized table that lists multiple cryptocurrencies with their key details.
   * **Donation Box Widget:** Easily add a crypto donation widget to your site. You can also add various wallet options, such as Bitcoin and Metamask, providing flexibility for donations.
 * **24-Hour Percentage Changes:** Show cryptocurrency price changes over the last 24 hours, allowing users to see quick market trends.
@@ -116,10 +116,7 @@ Yes, the plugin is fully compatible with any theme that supports Elementor.&#x20
 Currently, the plugin focuses on cryptocurrency prices and does not include fiat currency conversion. However, it pulls real-time market data for accurate cryptocurrency pricing.
 
 \= Is there an option to add more than 250 coins? =\
-By default, the plugin supports the top 250 cryptocurrencies by market cap. However, you can customize the coin list to display your preferred coins within this range.
-
-\= How often is the market data updated? =\
-The plugin fetches real-time data, ensuring your coin price widgets and lists are always up to date with the latest market changes.
+By default, the plugin supports the top 200 cryptocurrencies by market cap. However, you can customize the coin list to display your preferred coins within this range.
 
 \= Can I accept donations in multiple cryptocurrencies at once? =\
 Yes, the donation widget supports over 50 cryptocurrencies, allowing you to accept multiple types of crypto donations on your Elementor pages.
