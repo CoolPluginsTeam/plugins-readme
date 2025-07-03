@@ -42,7 +42,7 @@ Whether you’re showcasing a company history, project roadmap, personal journey
 
 Upgrading to the [**Timeline Widget Pro**](https://cooltimeline.com/plugin/elementor-timeline-widget-pro/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=timeline_widget_pro) unlocks more advanced features like multiple layout options (vertical, horizontal, compact), preset styles, and advanced design settings. You can also add videos and slideshows instead of simple images to create interactive timeline stories.
 
-🔗[ **Check Pro Version Demos**](https://cooltimeline.com/demo/elementor-timeline-widget/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=view_pro_demo) **|** [**Get Pro**](https://cooltimeline.com/plugin/elementor-timeline-widget-pro/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=timeline_widget_pro)
+🔗[ **Check Pro Version Demos**](https://cooltimeline.com/demo/elementor-timeline-widget/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=view_pro_demo) **|** [**Get Pro**](https://cooltimeline.com/plugin/elementor-timeline-widget-pro/?utm_source=twae_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=get_pro)
 
 #### Check our other plugins demos
 
