@@ -54,7 +54,7 @@ Using Cool Timeline, you can create timeline stories in two ways:
 
 Upgrading to the [**Cool Timeline Pro**](https://cooltimeline.com/plugin/cool-timeline-pro/?utm_source=ctl_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=cool_timeline_pro#pricing) plugin unlocks the advanced features like access to multiple layouts, including Horizontal layout, Category-Based Timelines, Ajax Load More, Multimedia ( images, videos & slideshow), and more.
 
-[🔗**Check Pro Version Demos**](https://cooltimeline.com/demo/cool-timeline-pro/?utm_source=ctl_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=view_pro_demos) **|** [**Get Pro**](https://cooltimeline.com/plugin/cool-timeline-pro/?utm_source=ctl_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=cool_timeline_pro#pricing)
+[🔗**Check Pro Version Demos**](https://cooltimeline.com/demo/cool-timeline-pro/?utm_source=ctl_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=view_pro_demos) **|** [**Get Pro**](https://cooltimeline.com/plugin/cool-timeline-pro/?utm_source=ctl_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=get_pro#pricing)
 
 ### Where can you use the Cool Timeline?
 
