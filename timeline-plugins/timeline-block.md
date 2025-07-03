@@ -57,7 +57,7 @@ Just search **‘Timeline Block‘** from the block editor ‘Add Block‘ secti
 * **Dot, Icon, Image & Text:**\
   Customize icons with options including dot, icon, image, and text for personalized timelines.
 
-[**Upgrade to Pro!**](https://cooltimeline.com/plugin/timeline-block-pro-for-gutenberg/?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=upgarde_to_pro)
+[**Get Pro!**](https://cooltimeline.com/plugin/timeline-block-pro-for-gutenberg/?utm_source=tbg_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=upgarde_to_pro)
 
 ### Check Our Other Timeline Plugins
 
