@@ -37,7 +37,7 @@ Instead of relying on the default event layout offered by The Events Calendar, t
 
 Upgrading to the [**Event Single Page Builder Pro**](https://eventscalendaraddons.com/plugin/event-single-page-builder-pro/?utm_source=epta_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=single_page_builder#pricing) unlocks advanced features such as additional templates, support for single-page templates in Elementor, and designing custom layouts for event categories, venue pages, and organizer pages, giving you complete control over your event content presentation.
 
-[🔗 **Check pro version demos**](https://eventscalendaraddons.com/demos/event-single-page-builder-pro/?utm_source=epta_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=check_pro_demos) | [**Get Pro**](https://eventscalendaraddons.com/plugin/event-single-page-builder-pro/?utm_source=epta_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=single_page_builder#pricing)
+[🔗 **Check pro version demos**](https://eventscalendaraddons.com/demos/event-single-page-builder-pro/?utm_source=epta_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=check_pro_demos) | [**Get Pro**](https://eventscalendaraddons.com/plugin/event-single-page-builder-pro/?utm_source=epta_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=get_pro#pricing)
 
 #### More Addons For The Events Calendar
 
