@@ -10,7 +10,7 @@ Stable tag:1.7.4\
 License: GPL2\
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Easily display cryptocurrency prices and accept crypto donations on your Elementor site. Generate customizable widgets for 250+ coins, including Bitcoin, Ethereum, and more, with real-time data and stylish layouts.
+Easily display cryptocurrency prices and generate customizable widgets for 250+ coins, including Bitcoin, Ethereum, and more in Elementor.
 
 \== Description ==
 
@@ -25,12 +25,13 @@ https://www.youtube.com/watch?v=gFzCEBERiwc
 ### Key Features
 
 * **Real-time Crypto Data:** Fetch live data for over 200 cryptocurrencies, including Bitcoin, Ethereum, Ripple, and many more.
-* **API Source:** Data is sourced securely from trusted APIs; CoinGecko, CoinMarketCap and CoinPaprika to ensure accuracy.
+* **API Source:** Data is sourced securely from trusted APIs; CoinGecko, and CoinPaprika to ensure accuracy.
 * **Customizable Widgets:** You can use different widgets to display crypto data on your website.
   * **Coins Price Card:** Add real-time cryptocurrency price cards to your Elementor website, allowing your readers to stay updated with live data.
-  * **Coins Price Label:** Display coin price labels inside your page content using different styles.
+  * **Coins Price Label:** Display coin price labels inside your page content.
   * **Coins List:** Display a detailed list of cryptocurrencies showing live data such as coin prices, market cap, trading volume, and percentage changes.
-  * **Donation Box Widget** Easily add a crypto donation widget to your site. You can also add various wallet options such as Bitcoin and Metamask, providing flexibility for donations.
+  * **Coins Table Widget:** Create an organized table that lists multiple cryptocurrencies with their key details.
+  * **Donation Box Widget:** Easily add a crypto donation widget to your site. You can also add various wallet options, such as Bitcoin and Metamask, providing flexibility for donations.
 * **24-Hour Percentage Changes:** Show cryptocurrency price changes over the last 24 hours, allowing users to see quick market trends.
 * **Top Losers and Gainers:** Highlight the biggest price drops (losers) and largest increases (gainers) over a selected time period.
 * **Currency Conversion:** Allows users to convert between cryptocurrencies and fiat currencies directly on your site.
@@ -83,7 +84,7 @@ https://www.youtube.com/watch?v=gFzCEBERiwc
 \
 \= Can I display real-time live price changes? =
 
-We are using CoinGecko, CoinMarketCap and Coinpaprika API in our free version of the crypto price widget, it can show only the current price but doesn’t support real-time price updates.
+We are using CoinGecko, and Coinpaprika API in our free version of the crypto price widget, it can show only the current price but doesn’t support real-time price updates.
 
 \= Can I choose my local currency other than USD($)? =
 
