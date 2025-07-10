@@ -24,6 +24,7 @@
   * [Events Widgets for Elementor and The Events Calendar](events-plugins/events-widgets-for-elementor-and-the-events-calendar.md)
   * [Template Events Calendar](events-plugins/template-events-calendar.md)
   * [Events Search Addon for The Events Calendar](events-plugins/events-search-addon-for-the-events-calendar.md)
+  * [Events Block for The Events Calender](events-plugins/events-block-for-the-events-calendar.md)
 * [Crypto Plugins](crypto-plugins/README.md)
   * [cryptocurrency-payments-using-metamask-for-woocommerce](crypto-plugins/cryptocurrency-payments-using-metamask-for-woocommerce.md)
   * [Cryptocurrency Price Ticker Widget](crypto-plugins/cryptocurrency-price-ticker-widget.md)
