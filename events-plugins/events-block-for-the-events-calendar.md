@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=HSdMORtDeVE
 
 This addon fills in the gap by adding the **Events Block** feature to **The Events Calendar**, making it compatible with **Gutenberg**.
 
-[🔗**Check Plugin Demos**](https://eventscalendaraddons.com/demos/events-block-for-the-events-calendar/?utm_source=ebec_plugin\&utm_medium=readme\&utm_campaign=ebec_readme)
+[🔗**Check Plugin Demos**](https://eventscalendaraddons.com/demos/events-block-for-the-events-calendar/?utm_source=ebec_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=check_demos)
 
 ### Key Features
 
@@ -31,9 +31,9 @@ This addon fills in the gap by adding the **Events Block** feature to **The Even
 **More Addons For The Events Calendar**
 
 * [**Events Single Page Builder Pro**](https://eventscalendaraddons.com/plugin/event-single-page-builder-pro/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=epta_more_addons) - Design stunning single event pages with Elementor using pre-built templates and 20+ customizable widgets.
-* [**Events Shortcodes Pro**](https://eventscalendaraddons.com/plugin/events-shortcodes-pro/?utm_source=ectbe_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=ect_more_addons) - Events Shortcodes Pro For The Events Calendar adds the missing shortcode functionality to The Events Calendar plugin. With this plugin, you can easily display your events on any page or post in a list, grid, carousel, slider, masonry, accordion, or even a timeline format.
+* [**Events Shortcodes Pro**](https://eventscalendaraddons.com/plugin/events-shortcodes-pro/?utm_source=ebec_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=ect_more_addons) - Events Shortcodes Pro For The Events Calendar adds the missing shortcode functionality to The Events Calendar plugin. With this plugin, you can easily display your events on any page or post in a list, grid, carousel, slider, masonry, accordion, or even a timeline format.
 * [**Events Calendar Modules for Divi**](https://wordpress.org/plugins/events-calendar-modules-for-divi/) - Display The Events Calendar Events directly inside Divi with Customizable List or Grid Layouts.
-* [**Events Widgets Pro**](https://eventscalendaraddons.com/plugin/events-widgets-pro/?utm_source=ect_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=ectbe_more_addons)- Show events list, grid, carousel, and more in Elementor pages using **The Events Calendar Elementor Widgets.**
+* [**Events Widgets Pro**](https://eventscalendaraddons.com/plugin/events-widgets-pro/?utm_source=ebec_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=ectbe_more_addons)- Show events list, grid, carousel, and more in Elementor pages using **The Events Calendar Elementor Widgets.**
 
 \== Screenshots ==
 
