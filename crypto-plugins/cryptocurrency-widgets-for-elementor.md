@@ -40,13 +40,13 @@ https://www.youtube.com/watch?v=gFzCEBERiwc
 
 #### Check Our Other Cryptocurrency Plugins
 
+* [**Cryptocurrency Price Ticker Widget**](https://cryptocurrencyplugins.com/wordpress-plugin/cryptocurrency-widgets-pro/)**:** Display **Crypto Ticker Widgets**, **Coin Price Lists**, **Tables, Multi-Currency Tabs**, and **Price Labels** anywhere on Your Website with Cryptocurrency Widgets Pro Shortcodes.
 * [**Coins MarketCap Plugin**](https://cryptocurrencyplugins.com/wordpress-plugin/coins-marketcap/?utm_source=ccew_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=cmc_view_plugin)**:** Effortlessly integrate real-time market data for over 2,500 coins, including _prices, market caps,_ and _trading volumes_. The plugin supports multiple fiat currencies and is **Yoast SEO** friendly, ensuring each coin has unique meta tags for better search engine visibility.
 
 > Get a [complete website like coinmarketcap.com](https://cryptocurrencyplugins.com/coinmarketcap-clone-website/?utm_source=ccew_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=cmc_clone_site) that includes our all crypto plugins. Our developer will set it up for you.
 
 * [**Cryptocurrency Exchanges List Pro**](https://cryptocurrencyplugins.com/wordpress-plugin/cryptocurrency-exchanges-list-pro/?utm_source=ccew_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=celp_view_plugin)**:** Display real-time data from over 250 cryptocurrency exchanges on your website. Create automatic exchange pages showing trading pairs and volumes. Easily enable or disable exchanges as needed.
 * [**Pay With MetaMask**](https://cryptocurrencyplugins.com/wordpress-plugin/pay-with-metamask-for-woocommerce-pro/?utm_source=ccew_plugin\&utm_medium=readme\&utm_campaign=get_pro\&utm_content=cpmw_view_plugin)**:** If you run a WooCommerce store and want to accept cryptocurrency payments at checkout, our WooCommerce Crypto Payments plugin makes it simple. Customers can pay directly with crypto using Web3 wallets such as MetaMask, WalletConnect, and more. You can [test crypto payment integration in WooCommerce](https://paywithcryptocurrency.net/wordpress-plugin/test-cryptocurrency-payment/?utm_source=ccew_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=cpmw_view_demo) by purchasing a dummy product on our demo site using [faucet tokens](https://paywithcryptocurrency.net/plugin-features/test-networks-and-tokens/?utm_source=ccew_plugin\&utm_medium=readme\&utm_campaign=demo\&utm_content=cpmw_faucet).
-* [**Cryptocurrency Price Ticker Widget**](https://cryptocurrencyplugins.com/wordpress-plugin/cryptocurrency-widgets-pro/)**:** Display **Crypto Ticker Widgets, Coin Price Lists, Tables, Multi-Currency Tabs,** and **Price Labels** anywhere on Your Website with **Cryptocurrency Widgets Pro** Shortcodes.
 
 #### Third Party API & License Information
 
